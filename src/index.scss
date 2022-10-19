@@ -1,0 +1,21 @@
+@use './styles/util' as *;
+
+html {
+    font-size: 100%;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: $font-family;
+    font-weight: 400;
+    color: $black-color;
+}

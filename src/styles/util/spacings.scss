@@ -1,0 +1,58 @@
+@use 'functions' as *;
+
+// Spacings
+$spacings: (
+    '1': rem(4),
+    '2': rem(8),
+    '3': rem(12),
+    '4': rem(16),
+    '5': rem(20),
+    '6': rem(24),
+    '7': rem(32),
+    '8': rem(40),
+    '9': rem(48),
+    '10': rem(56),
+    '11': rem(64),
+    '12': rem(72),
+    '13': rem(80),
+);
+
+// Margins
+
+@each $space, $size in $spacings {
+    .mt-#{$space} {
+        margin-top: $size !important;
+    }
+
+    .mr-#{$space} {
+        margin-right: $size !important;
+    }
+
+    .mb-#{$space} {
+        margin-bottom: $size !important;
+    }
+
+    .ml-#{$space} {
+        margin-left: $size !important;
+    }
+}
+
+// Paddings
+
+@each $space, $size in $spacings {
+    .pt-#{$space} {
+        padding-top: $size !important;
+    }
+
+    .pr-#{$space} {
+        padding-right: $size !important;
+    }
+
+    .pb-#{$space} {
+        padding-bottom: $size !important;
+    }
+
+    .pl-#{$space} {
+        padding-left: $size !important;
+    }
+}

@@ -1,0 +1,18 @@
+$breakpoints-up: (
+    'tablet': '600px',
+    'laptop': '721px',
+    'desktop': '992px',
+    'lg-desktop': '1201px',
+);
+
+@mixin breakpoint($size) {
+    @media (min-width: map-get($breakpoints-up, $size)) {
+        @content;
+    }
+}
+
+// 320px — 599px: Mobile devices
+// 600px — 720px: Tablets
+// 721px — 991px: Laptops, tablet landscape
+// 992px — 1200px: Desktops
+// 1201px and more —  Extra large screens, TV
