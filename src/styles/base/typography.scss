@@ -1,0 +1,64 @@
+@use '../util' as *;
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+
+a:link,
+a:visited,
+a:active {
+    text-decoration: none;
+}
+
+textarea,
+input.text,
+input[type='text'],
+input[type='button'],
+input[type='email'],
+input[type='tel'],
+input[type='number'],
+input[type='password'],
+input[type='submit'],
+.input-checkbox {
+    -webkit-appearance: none;
+    outline: none;
+}
+
+h1 {
+    font-size: $font-size-display;
+}
+
+h2 {
+    font-size: $font-size-xlg;
+}
+
+h3 {
+    font-size: $font-size-lg;
+}
+
+h4 {
+    font-size: $font-size-md;
+}
+
+h5 {
+    font-size: $font-size-sm;
+}
+
+p {
+    font-size: $font-size-md;
+
+    &.small {
+        font-size: $font-size-sm;
+    }
+}
+
+::placeholder {
+    font-size: $font-size-sm;
+    color: $light-text-color;
+}

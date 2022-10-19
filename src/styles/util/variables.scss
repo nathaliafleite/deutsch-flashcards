@@ -1,3 +1,5 @@
+@use 'functions' as *;
+
 // Fonts
 $font-family: 'Inter', sans-serif;
 
@@ -5,6 +7,15 @@ $font-regular: 400;
 $font-medium: 500;
 $font-semi-bold: 600;
 $font-bold: 700;
+
+// Font sizes
+$font-size-display: rem(36);
+$font-size-xlg: rem(20);
+$font-size-lg: rem(18);
+$font-size-md: rem(16);
+$font-size-sm: rem(14);
+$font-size-xsm: rem(12);
+$font-size-tiny: rem(10);
 
 // Colors
 $black-color: #000000;

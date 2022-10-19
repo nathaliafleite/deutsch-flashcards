@@ -1,0 +1,25 @@
+@use '../util' as *;
+
+.clear-button {
+    padding: rem(12);
+    width: calc(100% - 12px);
+    color: $black-color;
+    font-size: $font-size-sm;
+    text-transform: uppercase;
+    text-align: center;
+    border: 1px solid $black-color;
+    background: transparent;
+}
+
+.search-button {
+    position: absolute;
+    right: 4px;
+    top: 4px;
+    bottom: 4px;
+    padding: rem(4) rem(16);
+    display: flex;
+    align-items: center;
+    background: $black-color;
+    border: none;
+    border-radius: 90px;
+}

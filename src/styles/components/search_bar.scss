@@ -1,0 +1,23 @@
+@use '../util/' as *;
+
+.search-bar {
+    position: relative;
+    width: 100%;
+
+    input {
+        padding: rem(12) rem(16);
+        width: 100%;
+        color: $black-color;
+        font-size: $font-size-sm;
+        border: 1px solid $border-color;
+        border-radius: 100px;
+
+        &:focus {
+            border: 1px solid $black-color;
+        }
+
+        &:focus-visible {
+            outline: 1px solid $black-color;
+        }
+    }
+}
