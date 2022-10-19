@@ -1,0 +1,49 @@
+@use '../util' as *;
+
+.clear-button {
+    padding: rem(12);
+    width: calc(100% - 12px);
+    color: $black-color;
+    font-size: $font-size-sm;
+    text-transform: uppercase;
+    text-align: center;
+    border: 1px solid $black-color;
+    background: transparent;
+}
+
+.search-button {
+    position: absolute;
+    right: 4px;
+    top: 4px;
+    bottom: 4px;
+    padding: rem(4) rem(16);
+    display: flex;
+    align-items: center;
+    background: $black-color;
+    border: none;
+    border-radius: 100px;
+}
+
+.filter-button {
+    padding: rem(8) rem(16);
+    display: flex;
+    align-items: center;
+    font-size: $font-size-sm;
+    color: $black-color;
+    background: transparent;
+    text-transform: uppercase;
+    text-align: center;
+    border: none;
+    border-radius: 100px;
+    transition: all 0.2s ease-in-out;
+
+    &.active {
+        color: $white-color;
+        font-weight: $font-medium;
+        background: $black-color;
+    }
+
+    &:not(:last-of-type) {
+        margin-right: rem(8);
+    }
+}
