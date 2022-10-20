@@ -488,9 +488,36 @@
   justify-content: space-between;
 }
 
-.container {
-  max-width: 500px;
+.search-card {
   width: 100%;
-  margin-right: auto;
-  margin-left: auto;
-}/*# sourceMappingURL=container.css.map */
+  height: 4rem;
+  margin: 1.25rem auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+.search-card--left, .search-card--right {
+  padding: 1.375rem 1rem;
+  align-self: center;
+}
+.search-card--left {
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
+  justify-self: stretch;
+}
+.search-card--right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-self: stretch;
+}
+.search-card--right.F {
+  background: #fd9fee;
+}
+.search-card--right.M {
+  background: #9fcafd;
+}
+.search-card--right.N {
+  background: #fbfd9f;
+}/*# sourceMappingURL=search_card.css.map */

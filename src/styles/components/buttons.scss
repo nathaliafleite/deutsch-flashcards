@@ -2,12 +2,13 @@
 
 .clear-button {
     padding: rem(12);
-    width: calc(100% - 12px);
+    width: calc(50% - 12px);
     color: $black-color;
     font-size: $font-size-sm;
     text-transform: uppercase;
     text-align: center;
     border: 1px solid $black-color;
+    border-radius: 100px;
     background: transparent;
 }
 

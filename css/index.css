@@ -206,6 +206,38 @@
   margin-left: 5rem !important;
 }
 
+.mt-14 {
+  margin-top: 5.5rem !important;
+}
+
+.mr-14 {
+  margin-right: 5.5rem !important;
+}
+
+.mb-14 {
+  margin-bottom: 5.5rem !important;
+}
+
+.ml-14 {
+  margin-left: 5.5rem !important;
+}
+
+.mt-15 {
+  margin-top: 6rem !important;
+}
+
+.mr-15 {
+  margin-right: 6rem !important;
+}
+
+.mb-15 {
+  margin-bottom: 6rem !important;
+}
+
+.ml-15 {
+  margin-left: 6rem !important;
+}
+
 .pt-1 {
   padding-top: 0.25rem !important;
 }
@@ -412,6 +444,48 @@
 
 .pl-13 {
   padding-left: 5rem !important;
+}
+
+.pt-14 {
+  padding-top: 5.5rem !important;
+}
+
+.pr-14 {
+  padding-right: 5.5rem !important;
+}
+
+.pb-14 {
+  padding-bottom: 5.5rem !important;
+}
+
+.pl-14 {
+  padding-left: 5.5rem !important;
+}
+
+.pt-15 {
+  padding-top: 6rem !important;
+}
+
+.pr-15 {
+  padding-right: 6rem !important;
+}
+
+.pb-15 {
+  padding-bottom: 6rem !important;
+}
+
+.pl-15 {
+  padding-left: 6rem !important;
+}
+
+.flex {
+  display: flex;
+}
+.flex-ac {
+  align-items: center;
+}
+.flex-jsb {
+  justify-content: space-between;
 }
 
 html {

@@ -1,0 +1,42 @@
+@use '../util/' as *;
+
+.search-card {
+    width: 100%;
+    height: rem(64);
+    margin: rem(20) auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: 1px solid $border-color;
+    border-radius: 8px;
+    overflow: hidden;
+
+    &--left,
+    &--right {
+        padding: rem(22) rem(16);
+        align-self: center;
+    }
+
+    &--left {
+        border-right: 1px solid $border-color;
+        justify-self: stretch;
+    }
+
+    &--right {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        justify-self: stretch;
+
+        &.F {
+            background: $fem-noun;
+        }
+
+        &.M {
+            background: $masc-noun;
+        }
+
+        &.N {
+            background: $neut-noun;
+        }
+    }
+}

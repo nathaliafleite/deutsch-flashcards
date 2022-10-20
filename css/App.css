@@ -206,6 +206,38 @@
   margin-left: 5rem !important;
 }
 
+.mt-14 {
+  margin-top: 5.5rem !important;
+}
+
+.mr-14 {
+  margin-right: 5.5rem !important;
+}
+
+.mb-14 {
+  margin-bottom: 5.5rem !important;
+}
+
+.ml-14 {
+  margin-left: 5.5rem !important;
+}
+
+.mt-15 {
+  margin-top: 6rem !important;
+}
+
+.mr-15 {
+  margin-right: 6rem !important;
+}
+
+.mb-15 {
+  margin-bottom: 6rem !important;
+}
+
+.ml-15 {
+  margin-left: 6rem !important;
+}
+
 .pt-1 {
   padding-top: 0.25rem !important;
 }
@@ -414,6 +446,48 @@
   padding-left: 5rem !important;
 }
 
+.pt-14 {
+  padding-top: 5.5rem !important;
+}
+
+.pr-14 {
+  padding-right: 5.5rem !important;
+}
+
+.pb-14 {
+  padding-bottom: 5.5rem !important;
+}
+
+.pl-14 {
+  padding-left: 5.5rem !important;
+}
+
+.pt-15 {
+  padding-top: 6rem !important;
+}
+
+.pr-15 {
+  padding-right: 6rem !important;
+}
+
+.pb-15 {
+  padding-bottom: 6rem !important;
+}
+
+.pl-15 {
+  padding-left: 6rem !important;
+}
+
+.flex {
+  display: flex;
+}
+.flex-ac {
+  align-items: center;
+}
+.flex-jsb {
+  justify-content: space-between;
+}
+
 h1,
 h2,
 h3,
@@ -495,12 +569,13 @@ p.small {
 
 .clear-button {
   padding: 0.75rem;
-  width: calc(100% - 12px);
+  width: calc(50% - 12px);
   color: #000000;
   font-size: 0.875rem;
   text-transform: uppercase;
   text-align: center;
   border: 1px solid #000000;
+  border-radius: 100px;
   background: transparent;
 }
 
@@ -518,7 +593,7 @@ p.small {
 }
 
 .filter-button {
-  padding: 0.5rem 0.75rem;
+  padding: 0.5rem 1rem;
   display: flex;
   align-items: center;
   font-size: 0.875rem;
@@ -528,11 +603,15 @@ p.small {
   text-align: center;
   border: none;
   border-radius: 100px;
+  transition: all 0.2s ease-in-out;
 }
 .filter-button.active {
   color: #ffffff;
-  font-weight: 600;
+  font-weight: 500;
   background: #000000;
+}
+.filter-button:not(:last-of-type) {
+  margin-right: 0.5rem;
 }
 
 .search-bar {
@@ -552,4 +631,113 @@ p.small {
 }
 .search-bar input:focus-visible {
   outline: 1px solid #000000;
+}
+
+.filter-tab {
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+}
+
+.flashcard {
+  position: relative;
+  width: 100%;
+  height: 400px;
+  margin-top: 2.5rem;
+  transform-style: preserve-3d;
+  transition: all 0.2s ease-in-out;
+  transform: perspective(900px) rotateY(var(--rotate-y, 0));
+}
+.flashcard--front, .flashcard--back {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  border-radius: 4px;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+.flashcard--front {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.flashcard--back {
+  transform: rotateY(180deg);
+}
+.flashcard--back.F {
+  background: #fd9fee;
+}
+.flashcard--back.M {
+  background: #9fcafd;
+}
+.flashcard--back.N {
+  background: #fbfd9f;
+}
+.flashcard.flip {
+  --rotate-y: -180deg;
+}
+.flashcard__word {
+  font-weight: 400;
+}
+.flashcard__header {
+  text-align: center;
+}
+.flashcard__header h1 {
+  font-weight: 500;
+}
+.flashcard__header h2 {
+  font-weight: 400;
+}
+.flashcard__declination .case {
+  display: flex;
+  align-items: flex-start;
+}
+.flashcard__declination .case:not(:last-child) {
+  margin-bottom: 1.5rem;
+}
+.flashcard__declination .case--left {
+  width: 1.75rem;
+  margin-right: 1.375rem;
+  text-align: right;
+}
+.flashcard__declination .case--right {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.search-card {
+  width: 100%;
+  height: 4rem;
+  margin: 1.25rem auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+.search-card--left, .search-card--right {
+  padding: 1.375rem 1rem;
+  align-self: center;
+}
+.search-card--left {
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
+  justify-self: stretch;
+}
+.search-card--right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-self: stretch;
+}
+.search-card--right.F {
+  background: #fd9fee;
+}
+.search-card--right.M {
+  background: #9fcafd;
+}
+.search-card--right.N {
+  background: #fbfd9f;
 }/*# sourceMappingURL=App.css.map */
