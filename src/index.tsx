@@ -4,12 +4,15 @@ import './index.scss';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom';
+import WordsContextProvider from './app/store/words-context';
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement);
 root.render(
     <React.StrictMode>
         <BrowserRouter>
-            <App />
+            <WordsContextProvider>
+                <App />
+            </WordsContextProvider>
         </BrowserRouter>
     </React.StrictMode>
 );
