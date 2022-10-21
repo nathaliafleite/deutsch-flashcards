@@ -1,4 +1,4 @@
-import { Noun } from '../../app/types';
+import { Noun } from '../../app/helpers/types';
 
 type Props = {
     data: Noun;

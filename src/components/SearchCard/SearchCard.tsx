@@ -1,6 +1,6 @@
 import { useNavigate } from 'react-router-dom';
-import { WordType } from '../../app/enums';
-import { Noun, Verb } from '../../app/types';
+import { WordType } from '../../app/helpers/enums';
+import { Noun, Verb } from '../../app/helpers/types';
 
 type Props = {
     type: WordType;

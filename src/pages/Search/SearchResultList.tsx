@@ -1,4 +1,4 @@
-import { WordType } from '../../app/enums';
+import { WordType } from '../../app/helpers/enums';
 import SearchCard from '../../components/SearchCard/SearchCard';
 
 const DUMMY_NOUN = {

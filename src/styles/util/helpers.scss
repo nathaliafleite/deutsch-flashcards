@@ -1,3 +1,5 @@
+@use 'variables' as *;
+
 .flex {
     display: flex;
 
@@ -8,4 +10,20 @@
     &-jsb {
         justify-content: space-between;
     }
+
+    &-jc {
+        justify-content: center;
+    }
+
+    &-dc {
+        flex-direction: column;
+    }
+}
+
+.text-color {
+    color: $light-text-color;
+}
+
+.height-86vh {
+    height: 86vh;
 }

@@ -28,3 +28,8 @@ export type Verb = {
     pretrite: string;
     word: string;
 };
+
+export type AllWords = {
+    nouns: Noun[];
+    verbs: Verb[];
+};

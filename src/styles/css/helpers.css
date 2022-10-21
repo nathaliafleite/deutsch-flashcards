@@ -6,4 +6,18 @@
 }
 .flex-jsb {
   justify-content: space-between;
+}
+.flex-jc {
+  justify-content: center;
+}
+.flex-dc {
+  flex-direction: column;
+}
+
+.text-color {
+  color: #7d7d7d;
+}
+
+.height-86vh {
+  height: 86vh;
 }/*# sourceMappingURL=helpers.css.map */

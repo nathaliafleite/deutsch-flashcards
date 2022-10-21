@@ -1,4 +1,4 @@
-import { Verb } from '../../app/types';
+import { Verb } from '../../app/helpers/types';
 
 type Props = {
     data: Verb;

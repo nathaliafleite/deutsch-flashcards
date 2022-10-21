@@ -17,6 +17,7 @@ $spacings: (
     '13': rem(80),
     '14': rem(88),
     '15': rem(96),
+    'auto': auto,
 );
 
 // Margins
@@ -37,6 +38,16 @@ $spacings: (
     .ml-#{$space} {
         margin-left: $size !important;
     }
+
+    .mx-#{$space} {
+        margin-left: $size !important;
+        margin-right: $size !important;
+    }
+
+    .my-#{$space} {
+        margin-bottom: $size !important;
+        margin-top: $size !important;
+    }
 }
 
 // Paddings
@@ -56,5 +67,15 @@ $spacings: (
 
     .pl-#{$space} {
         padding-left: $size !important;
+    }
+
+    .px-#{$space} {
+        padding-left: $size !important;
+        padding-right: $size !important;
+    }
+
+    .py-#{$space} {
+        padding-top: $size !important;
+        padding-bottom: $size !important;
     }
 }
