@@ -6,8 +6,7 @@
     height: 400px;
     margin-top: rem(40);
     transform-style: preserve-3d;
-    transition: all 0.2s ease-in-out;
-    transform: perspective(900px) rotateY(var(--rotate-y, 0));
+    transform: rotateY(var(--rotate-y, 0));
 
     &--front,
     &--back {
