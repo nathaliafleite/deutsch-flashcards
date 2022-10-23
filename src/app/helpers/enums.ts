@@ -1,12 +1,12 @@
-export enum WordType {
-    Noun,
+export enum WordTypeEnum {
+    Noun = 1,
     Verb,
     Adjective,
     Adverb,
     Expression,
 }
 
-export enum FilterOption {
+export enum FilterOptionEnum {
     Noun,
     Verb,
     Adjective,

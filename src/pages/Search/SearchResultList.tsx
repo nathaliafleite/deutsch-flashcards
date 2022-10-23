@@ -1,4 +1,4 @@
-import { WordType } from '../../app/helpers/enums';
+import { WordTypeEnum } from '../../app/helpers/enums';
 import SearchCard from '../../components/SearchCard/SearchCard';
 
 const DUMMY_NOUN = {
@@ -25,7 +25,7 @@ const DUMMY_NOUN = {
 };
 
 function SearchResultList() {
-    return <SearchCard type={WordType.Noun} dataNoun={DUMMY_NOUN} />;
+    return <SearchCard type={WordTypeEnum.Noun} dataNoun={DUMMY_NOUN} />;
 }
 
 export default SearchResultList;

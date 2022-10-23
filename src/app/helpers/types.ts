@@ -25,7 +25,7 @@ export type Verb = {
     infinitive: string;
     perfect: string;
     present3rd: string;
-    pretrite: string;
+    preterite: string;
     word: string;
 };
 

@@ -1,9 +1,9 @@
 import { useNavigate } from 'react-router-dom';
-import { WordType } from '../../app/helpers/enums';
+import { WordTypeEnum } from '../../app/helpers/enums';
 import { Noun, Verb } from '../../app/helpers/types';
 
 type Props = {
-    type: WordType;
+    type: WordTypeEnum;
     dataNoun?: Noun;
     dataVerb?: Verb;
 };
@@ -16,14 +16,14 @@ const SearchCard: React.FC<Props> = ({ type, dataNoun, dataVerb }) => {
     let gender;
     let id: string;
 
-    if (dataNoun && type === WordType.Noun) {
+    if (dataNoun && type === WordTypeEnum.Noun) {
         word = dataNoun.word;
         translation = dataNoun.nominative.singular;
         gender = dataNoun.gender;
         id = dataNoun.id;
     }
 
-    if (dataVerb && type === WordType.Verb) {
+    if (dataVerb && type === WordTypeEnum.Verb) {
         word = dataVerb.word;
         translation = dataVerb.infinitive;
         id = dataVerb.id;

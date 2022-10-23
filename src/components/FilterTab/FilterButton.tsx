@@ -1,12 +1,12 @@
 import React from 'react';
-import { FilterOption } from '../../app/helpers/enums';
+import { FilterOptionEnum } from '../../app/helpers/enums';
 
 type Props = {
     isSelected: boolean;
     id: string;
     text: string;
     onSelect: (e: React.MouseEvent<HTMLButtonElement>) => void;
-    type: FilterOption;
+    type: FilterOptionEnum;
 };
 
 const FilterButton: React.FC<Props> = ({ isSelected, id, text, onSelect, type }) => {

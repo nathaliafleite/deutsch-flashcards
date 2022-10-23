@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import { FilterOption, WordType } from '../../app/helpers/enums';
+import { FilterOptionEnum } from '../../app/helpers/enums';
 import FilterButton from './FilterButton';
 
 type Props = {
-    filterWords: (type: FilterOption) => void;
+    filterWords: (type: FilterOptionEnum) => void;
 };
 
 const FilterTab: React.FC<Props> = ({ filterWords }) => {
@@ -20,28 +20,28 @@ const FilterTab: React.FC<Props> = ({ filterWords }) => {
                 <FilterButton
                     id='nouns'
                     text='Nouns'
-                    type={FilterOption.Noun}
+                    type={FilterOptionEnum.Noun}
                     isSelected={selectedFilter === 'nouns'}
                     onSelect={handleSelectedFilter}
                 />
                 <FilterButton
                     id='verbs'
                     text='Verbs'
-                    type={FilterOption.Verb}
+                    type={FilterOptionEnum.Verb}
                     isSelected={selectedFilter === 'verbs'}
                     onSelect={handleSelectedFilter}
                 />
                 <FilterButton
                     id='mistakes'
                     text='Mistakes'
-                    type={FilterOption.Mistake}
+                    type={FilterOptionEnum.Mistake}
                     isSelected={selectedFilter === 'mistakes'}
                     onSelect={handleSelectedFilter}
                 />
                 <FilterButton
                     id='all'
                     text='All'
-                    type={FilterOption.All}
+                    type={FilterOptionEnum.All}
                     isSelected={selectedFilter === 'all'}
                     onSelect={handleSelectedFilter}
                 />
