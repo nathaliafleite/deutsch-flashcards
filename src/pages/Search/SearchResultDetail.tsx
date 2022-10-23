@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import { useParams } from 'react-router-dom';
 import BackButton from '../../components/Buttons/BackButton';
 import FlashcardNoun from '../../components/FlashcardTypes/FlashcardNoun';
 
@@ -27,7 +26,6 @@ const DUMMY_NOUN = {
 };
 
 function SearchResultDetail() {
-    const { id } = useParams();
     const [flip, setFlip] = useState(true);
 
     return (
