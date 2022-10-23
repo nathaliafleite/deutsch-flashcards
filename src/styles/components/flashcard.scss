@@ -15,6 +15,7 @@
         align-items: center;
         justify-content: center;
         flex-direction: column;
+        padding: rem(32);
         height: 100%;
         width: 100%;
         border-radius: 4px;
@@ -39,6 +40,10 @@
         &.N {
             background: $neut-noun;
         }
+
+        &.verb {
+            border: 1px solid $border-color;
+        }
     }
 
     &.flip {
@@ -46,41 +51,45 @@
     }
 
     &__word {
+        text-align: center;
         font-weight: $font-regular;
     }
 
     &__header {
-        text-align: center;
-
         h1 {
             font-weight: $font-medium;
+            text-align: center;
         }
 
         h2 {
             font-weight: $font-regular;
+            text-align: center;
         }
     }
 
-    &__declination {
-        .case {
+    &__footer {
+        display: flex;
+        align-items: flex-start;
+
+        &:not(:last-of-type) {
+            margin-bottom: rem(24);
+        }
+
+        .left {
+            width: rem(28);
+            margin-right: rem(22);
+            font-size: $font-size-sm;
+            text-align: right;
+
+            &.verb {
+                width: rem(60);
+            }
+        }
+
+        .right {
             display: flex;
             align-items: flex-start;
-
-            &:not(:last-child) {
-                margin-bottom: rem(24);
-            }
-
-            &--left {
-                width: rem(28);
-                margin-right: rem(22);
-                text-align: right;
-            }
-
-            &--right {
-                display: flex;
-                align-items: flex-start;
-                flex-direction: column;
-            }
+            flex-direction: column;
         }
     }
 }

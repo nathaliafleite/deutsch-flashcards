@@ -1,72 +1,136 @@
 import { useContext, useState } from 'react';
-import { FilterOption } from '../../app/helpers/enums';
+import { FilterOptionEnum, WordTypeEnum } from '../../app/helpers/enums';
 import { WordsContext } from '../../app/store/words-context';
+import FlashcardMistake from '../../components/FlashcardTypes/FlashcardMistake';
 import FlashcardNoun from '../../components/FlashcardTypes/FlashcardNoun';
 import FlashcardVerb from '../../components/FlashcardTypes/FlashcardVerb';
 
 type Props = {
-    type: FilterOption;
+    filter: FilterOptionEnum;
+    flip: boolean;
+    handleFlip: (flip: boolean) => void;
 };
 
-const FlashcardList: React.FC<Props> = ({ type }) => {
-    const wordsCtx = useContext(WordsContext);
-    const [nounFlip, setNounFlip] = useState(false);
-    const [verbFlip, setVerbFlip] = useState(false);
-    const [nounIndex, setNounIndex] = useState(0);
-    const [verbIndex, setVerbIndex] = useState(0);
-    const [mistakeIndex, setMistakeIndex] = useState(0);
-    const [allIndex, setAllIndex] = useState(0);
+type CurrentFlashcard = {
+    type: WordTypeEnum;
+    nounIndex: number;
+    verbIndex: number;
+    mistakeIndex: number;
+    allIndex: number;
+};
 
-    const cardIsFlipped =
-        (type === FilterOption.Noun && nounFlip) ||
-        (type === FilterOption.Verb && verbFlip);
+const FlashcardList: React.FC<Props> = ({ filter, flip, handleFlip }) => {
+    const wordsCtx = useContext(WordsContext);
+    const [curCard, setCurCard] = useState<CurrentFlashcard>({
+        type: WordTypeEnum.Noun,
+        nounIndex: 0,
+        verbIndex: 0,
+        mistakeIndex: 0,
+        allIndex: 0,
+    });
+
+    const handleNounIndex = () => {
+        const lastIndex = curCard.nounIndex === wordsCtx.nouns.length - 1;
+        setCurCard(prevState => {
+            return {
+                ...prevState,
+                nounIndex: lastIndex ? 0 : prevState.nounIndex + 1,
+            };
+        });
+    };
+
+    const handleVerbIndex = () => {
+        const lastIndex = curCard.verbIndex === wordsCtx.verbs.length - 1;
+        setCurCard(prevState => {
+            return {
+                ...prevState,
+                verbIndex: lastIndex ? 0 : prevState.verbIndex + 1,
+            };
+        });
+    };
+
+    const handleMistakeIndex = (increase?: boolean) => {
+        const lastIndex = curCard.mistakeIndex >= wordsCtx.mistakes.length - 1;
+        if (increase) {
+            setCurCard(prevState => {
+                return {
+                    ...prevState,
+                    mistakeIndex: lastIndex ? 0 : prevState.mistakeIndex + 1,
+                };
+            });
+        } else {
+            setCurCard(prevState => {
+                return {
+                    ...prevState,
+                    mistakeIndex: lastIndex ? 0 : prevState.mistakeIndex,
+                };
+            });
+        }
+    };
 
     const handleRightAnswer = () => {
-        if (type === FilterOption.Noun) {
-            setNounFlip(false);
-            setNounIndex(prevState => prevState + 1);
+        handleFlip(false);
+
+        if (filter === FilterOptionEnum.Noun) {
+            handleNounIndex();
         }
 
-        if (type === FilterOption.Verb) {
-            setVerbFlip(false);
-            setVerbIndex(prevState => prevState + 1);
+        if (filter === FilterOptionEnum.Verb) {
+            handleVerbIndex();
+        }
+
+        if (filter === FilterOptionEnum.Mistake) {
+            wordsCtx.removeMistake(wordsCtx.mistakes[curCard.mistakeIndex]);
+            handleMistakeIndex();
         }
     };
 
     const handleWrongAnswer = () => {
-        if (type === FilterOption.Noun) {
-            wordsCtx.addMistakes(wordsCtx.nouns[nounIndex].id);
-            setNounFlip(false);
-            setNounIndex(prevState => prevState + 1);
+        handleFlip(false);
+
+        if (filter === FilterOptionEnum.Noun) {
+            wordsCtx.addMistakes(wordsCtx.nouns[curCard.nounIndex].id);
+            handleNounIndex();
         }
 
-        if (type === FilterOption.Verb) {
-            wordsCtx.addMistakes(wordsCtx.verbs[verbIndex].id);
-            setVerbFlip(false);
-            setVerbIndex(prevState => prevState + 1);
+        if (filter === FilterOptionEnum.Verb) {
+            wordsCtx.addMistakes(wordsCtx.verbs[curCard.verbIndex].id);
+            handleVerbIndex();
+        }
+
+        if (filter === FilterOptionEnum.Mistake) {
+            handleMistakeIndex(true);
         }
     };
 
     return (
         <>
-            {type === FilterOption.Noun && (
+            {filter === FilterOptionEnum.Noun && (
                 <FlashcardNoun
-                    data={wordsCtx.nouns[nounIndex]}
-                    flip={nounFlip}
-                    handleFlip={() => setNounFlip(!nounFlip)}
+                    data={wordsCtx.nouns[curCard.nounIndex]}
+                    flip={flip}
+                    handleFlip={() => handleFlip(!flip)}
                 />
             )}
 
-            {type === FilterOption.Verb && (
+            {filter === FilterOptionEnum.Verb && (
                 <FlashcardVerb
-                    data={wordsCtx.verbs[verbIndex]}
-                    flip={verbFlip}
-                    handleFlip={() => setVerbFlip(!verbFlip)}
+                    data={wordsCtx.verbs[curCard.verbIndex]}
+                    flip={flip}
+                    handleFlip={() => handleFlip(!flip)}
+                />
+            )}
+
+            {filter === FilterOptionEnum.Mistake && (
+                <FlashcardMistake
+                    index={curCard.mistakeIndex}
+                    flip={flip}
+                    handleFlip={() => handleFlip(!flip)}
                 />
             )}
 
             <div className='container'>
-                {cardIsFlipped && (
+                {flip && (
                     <div className='flex flex-ac flex-jsb mt-7'>
                         <button
                             type='button'

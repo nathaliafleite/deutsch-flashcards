@@ -1,18 +1,24 @@
 import { useState } from 'react';
-import { FilterOption, WordType } from '../../app/helpers/enums';
+import { FilterOptionEnum } from '../../app/helpers/enums';
 import FilterTab from '../../components/FilterTab/FilterTab';
 import FlashcardList from './FlashcardList';
 
 function Home() {
-    const [type, setType] = useState<FilterOption>(FilterOption.Noun);
+    const [filter, setFilter] = useState<FilterOptionEnum>(FilterOptionEnum.Noun);
+    const [flip, setFlip] = useState(false);
 
-    const handleWordsFilter = (type: FilterOption) => {
-        setType(type);
+    const handleWordsFilter = (filter: FilterOptionEnum) => {
+        setFilter(filter);
+        setFlip(false);
     };
     return (
         <>
             <FilterTab filterWords={handleWordsFilter} />
-            <FlashcardList type={type} />
+            <FlashcardList
+                filter={filter}
+                flip={flip}
+                handleFlip={flip => setFlip(flip)}
+            />
         </>
     );
 }

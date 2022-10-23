@@ -20,24 +20,24 @@ const FlashcardNoun: React.FC<Props> = ({ data, flip, handleFlip }) => {
                         <h1>{nominative.singular}</h1>
                         <h2>{nominative.plural}</h2>
                     </div>
-                    <div className='flashcard__declination'>
-                        <div className='case'>
-                            <p className='case--left small'>akk.</p>
-                            <div className='case--right'>
+                    <div>
+                        <div className='flashcard__footer'>
+                            <p className='left '>akk.</p>
+                            <div className='right'>
                                 <p className='small'>{accusative.singular}</p>
                                 <p className='small'>{accusative.plural}</p>
                             </div>
                         </div>
-                        <div className='case'>
-                            <p className='case--left small'>dat.</p>
-                            <div className='case--right'>
+                        <div className='flashcard__footer'>
+                            <p className='left'>dat.</p>
+                            <div className='right'>
                                 <p className='small'>{dative.singular}</p>
                                 <p className='small'>{dative.plural}</p>
                             </div>
                         </div>
-                        <div className='case'>
-                            <p className='case--left small'>gen.</p>
-                            <div className='case--right'>
+                        <div className='flashcard__footer'>
+                            <p className='left'>gen.</p>
+                            <div className='right'>
                                 <p className='small'>{genitive.singular}</p>
                                 <p className='small'>{genitive.plural}</p>
                             </div>
