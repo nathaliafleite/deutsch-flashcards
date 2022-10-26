@@ -1019,6 +1019,7 @@ p.small {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  padding: 2rem;
   height: 100%;
   width: 100%;
   border-radius: 4px;
@@ -1040,10 +1041,14 @@ p.small {
 .flashcard--back.N {
   background: #fbfd9f;
 }
+.flashcard--back.verb {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
 .flashcard.flip {
   --rotate-y: -180deg;
 }
 .flashcard__word {
+  text-align: center;
   font-weight: 400;
 }
 .flashcard__header h1 {
@@ -1054,19 +1059,23 @@ p.small {
   font-weight: 400;
   text-align: center;
 }
-.flashcard__declination .case {
+.flashcard__footer {
   display: flex;
   align-items: flex-start;
 }
-.flashcard__declination .case:not(:last-child) {
+.flashcard__footer:not(:last-of-type) {
   margin-bottom: 1.5rem;
 }
-.flashcard__declination .case--left {
+.flashcard__footer .left {
   width: 1.75rem;
   margin-right: 1.375rem;
+  font-size: 0.875rem;
   text-align: right;
 }
-.flashcard__declination .case--right {
+.flashcard__footer .left.verb {
+  width: 3.75rem;
+}
+.flashcard__footer .right {
   display: flex;
   align-items: flex-start;
   flex-direction: column;
