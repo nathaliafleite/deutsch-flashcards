@@ -1,0 +1,10 @@
+@use "../util" as *;
+
+.counter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: rem(32);
+  font-size: rem(14);
+  color: $light-text-color;
+}

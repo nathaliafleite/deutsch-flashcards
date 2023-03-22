@@ -916,11 +916,6 @@ p.small {
   color: #7d7d7d;
 }
 
-:-ms-input-placeholder {
-  font-size: 0.875rem;
-  color: #7d7d7d;
-}
-
 ::placeholder {
   font-size: 0.875rem;
   color: #7d7d7d;

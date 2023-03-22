@@ -916,11 +916,6 @@ p.small {
   color: #7d7d7d;
 }
 
-:-ms-input-placeholder {
-  font-size: 0.875rem;
-  color: #7d7d7d;
-}
-
 ::placeholder {
   font-size: 0.875rem;
   color: #7d7d7d;
@@ -1009,7 +1004,7 @@ p.small {
   position: relative;
   width: 100%;
   height: 400px;
-  margin-top: 2.5rem;
+  margin-top: 1.125rem;
   transform-style: preserve-3d;
   transform: rotateY(var(--rotate-y, 0));
 }
@@ -1113,4 +1108,13 @@ p.small {
 }
 .search-card--right.N {
   background: #fbfd9f;
+}
+
+.counter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+  font-size: 0.875rem;
+  color: #7d7d7d;
 }/*# sourceMappingURL=App.css.map */
