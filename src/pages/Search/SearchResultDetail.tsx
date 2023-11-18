@@ -1,28 +1,28 @@
-import { useState } from "react";
-import BackButton from "../../components/Buttons/BackButton";
-import FlashcardNoun from "../../components/FlashcardTypes/FlashcardNoun";
+import { useState } from 'react';
+import BackButton from '../../components/Buttons/BackButton';
+import FlashcardNoun from '../../components/FlashcardTypes/FlashcardNoun';
 
 const DUMMY_NOUN = {
-  id: "noun-1",
+  id: 'noun-1',
   accusative: {
-    plural: "die Garagen",
-    singular: "die Garage",
+    plural: 'die Garagen',
+    singular: 'die Garage',
   },
   dative: {
-    plural: "den Garagen",
-    singular: "der Garage",
+    plural: 'den Garagen',
+    singular: 'der Garage',
   },
-  gender: "F",
+  gender: 'F',
 
   genitive: {
-    plural: "der Garagen",
-    singular: "der Garage",
+    plural: 'der Garagen',
+    singular: 'der Garage',
   },
   nominative: {
-    plural: "die Garagen",
-    singular: "die Garage",
+    plural: 'die Garagen',
+    singular: 'die Garage',
   },
-  word: "Garagem",
+  word: 'Garagem',
 };
 
 function SearchResultDetail() {

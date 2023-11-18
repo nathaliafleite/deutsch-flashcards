@@ -1,0 +1,3714 @@
+[
+  {
+    "id": "verb-1",
+    "word": "repetir",
+    "infinitive": "wiederholen",
+    "present3rd": "wiederholt",
+    "preterite": "wiederholte",
+    "perfect": "hat wiederholt"
+  },
+  {
+    "id": "verb-2",
+    "word": "dirigir (levar a)",
+    "infinitive": "treiben",
+    "present3rd": "treibt",
+    "preterite": "trieb",
+    "perfect": "hat getrieben"
+  },
+  {
+    "id": "verb-3",
+    "word": "dirigir (push forward / motivate)",
+    "infinitive": "antreiben",
+    "present3rd": "treibt an",
+    "preterite": "trieb an",
+    "perfect": "hat angetrieben"
+  },
+  {
+    "id": "verb-4",
+    "word": "abortar",
+    "infinitive": "abtreiben",
+    "present3rd": "treibt ab",
+    "preterite": "trieb ab",
+    "perfect": "hat abgetrieben"
+  },
+  {
+    "id": "verb-5",
+    "word": "exagerar",
+    "infinitive": "übertreiben",
+    "present3rd": "übertreibt",
+    "preterite": "übertrieb",
+    "perfect": "hat übertrieben"
+  },
+  {
+    "id": "verb-6",
+    "word": "subestimar",
+    "infinitive": "untertreiben",
+    "present3rd": "untertreibt",
+    "preterite": "untertreibte",
+    "perfect": "hat untertrieben"
+  },
+  {
+    "id": "verb-7",
+    "word": "compartilhar / dividir (share)",
+    "infinitive": "teilen",
+    "present3rd": "teilt",
+    "preterite": "teilte",
+    "perfect": "hat geteilt"
+  },
+  {
+    "id": "verb-8",
+    "word": "mudar-se (de casa)",
+    "infinitive": "umziehen",
+    "present3rd": "zieht um",
+    "preterite": "zog um",
+    "perfect": "ist umgezogen"
+  },
+  {
+    "id": "verb-9",
+    "word": "celebrar",
+    "infinitive": "feiern",
+    "present3rd": "feiert",
+    "preterite": "feierte",
+    "perfect": "hat gefeiert"
+  },
+  {
+    "id": "verb-10",
+    "word": "cancelar / desmarcar",
+    "infinitive": "absagen",
+    "present3rd": "sagt ab",
+    "preterite": "sagte ab",
+    "perfect": "hat abgesagt"
+  },
+  {
+    "id": "verb-11",
+    "word": "dar",
+    "infinitive": "geben",
+    "present3rd": "gibt",
+    "preterite": "gab",
+    "perfect": "hat gegeben"
+  },
+  {
+    "id": "verb-12",
+    "word": "ter férias",
+    "infinitive": "freihaben",
+    "present3rd": "hat frei",
+    "preterite": "hatte frei",
+    "perfect": "hat freigehabt"
+  },
+  {
+    "id": "verb-13",
+    "word": "liderar / conduzir / gerir",
+    "infinitive": "leiten",
+    "present3rd": "leitet",
+    "preterite": "leitet",
+    "perfect": "hat geleitet"
+  },
+  {
+    "id": "verb-14",
+    "word": "aconselhar",
+    "infinitive": "beraten",
+    "present3rd": "berät",
+    "preterite": "berietest / berietst",
+    "perfect": "hat beraten"
+  },
+  {
+    "id": "verb-15",
+    "word": "trazer",
+    "infinitive": "bringen",
+    "present3rd": "bringt",
+    "preterite": "brachte",
+    "perfect": "hat gebracht"
+  },
+  {
+    "id": "verb-16",
+    "word": "reservar (to book)",
+    "infinitive": "buchen",
+    "present3rd": "bucht",
+    "preterite": "buchte",
+    "perfect": "hat gebucht"
+  },
+  {
+    "id": "verb-17",
+    "word": "checar / inspecionar / examinar",
+    "infinitive": "überprüfen",
+    "present3rd": "überprüft",
+    "preterite": "überprüfte",
+    "perfect": "hat überprüft"
+  },
+  {
+    "id": "verb-18",
+    "word": "controlar / fiscalizar",
+    "infinitive": "kontrollieren",
+    "present3rd": "kontrolliert",
+    "preterite": "kontrollierte",
+    "perfect": "hat kontrolliert"
+  },
+  {
+    "id": "verb-19",
+    "word": "ter que (to have to)",
+    "infinitive": "müssen",
+    "present3rd": "muss",
+    "preterite": "musste",
+    "perfect": "hat gemusst"
+  },
+  {
+    "id": "verb-20",
+    "word": "organizar",
+    "infinitive": "organisieren",
+    "present3rd": "organisiert",
+    "preterite": "organisierte",
+    "perfect": "hat organisiert"
+  },
+  {
+    "id": "verb-21",
+    "word": "planejar",
+    "infinitive": "planen",
+    "present3rd": "plant",
+    "preterite": "plante",
+    "perfect": "hat geplant"
+  },
+  {
+    "id": "verb-22",
+    "word": "consertar / reparar",
+    "infinitive": "reparieren",
+    "present3rd": "repariert",
+    "preterite": "reparierte",
+    "perfect": "hat repariert"
+  },
+  {
+    "id": "verb-23",
+    "word": "assinar",
+    "infinitive": "unterschreiben",
+    "present3rd": "unterschreibt",
+    "preterite": "unterschreibte",
+    "perfect": "hat unterschrieben"
+  },
+  {
+    "id": "verb-24",
+    "word": "contar (to count)",
+    "infinitive": "zählen",
+    "present3rd": "zählt",
+    "preterite": "zählte",
+    "perfect": "hat gezählt"
+  },
+  {
+    "id": "verb-25",
+    "word": "estar pendurado",
+    "infinitive": "hängen",
+    "present3rd": "hängt",
+    "preterite": "hing",
+    "perfect": "hat gehangen"
+  },
+  {
+    "id": "verb-26",
+    "word": "ocorrer (to take place)",
+    "infinitive": "stattfinden",
+    "present3rd": "findet statt",
+    "preterite": "fand statt",
+    "perfect": "hat stattgefunden"
+  },
+  {
+    "id": "verb-27",
+    "word": "morar",
+    "infinitive": "wohnen",
+    "present3rd": "wohnt",
+    "preterite": "wohnte",
+    "perfect": "hat gewohnt"
+  },
+  {
+    "id": "verb-28",
+    "word": "encontrar / achar / achar(opinião)",
+    "infinitive": "finden",
+    "present3rd": "findet",
+    "preterite": "fand",
+    "perfect": "hat gefunden"
+  },
+  {
+    "id": "verb-29",
+    "word": "odiar / detestar",
+    "infinitive": "hassen",
+    "present3rd": "hasst",
+    "preterite": "hasste",
+    "perfect": "hat gehasst"
+  },
+  {
+    "id": "verb-30",
+    "word": "tornar-se / will",
+    "infinitive": "werden",
+    "present3rd": "wird",
+    "preterite": "wurde",
+    "perfect": "ist geworden"
+  },
+  {
+    "id": "verb-31",
+    "word": "manter / ficar com",
+    "infinitive": "behalten",
+    "present3rd": "behält",
+    "preterite": "behielt",
+    "perfect": "hat behalten"
+  },
+  {
+    "id": "verb-32",
+    "word": "comprar",
+    "infinitive": "kaufen",
+    "present3rd": "kauft",
+    "preterite": "kaufte",
+    "perfect": "hat gekauft"
+  },
+  {
+    "id": "verb-33",
+    "word": "presentear",
+    "infinitive": "schenken",
+    "present3rd": "schenkt",
+    "preterite": "schenkte",
+    "perfect": "hat geschenkt"
+  },
+  {
+    "id": "verb-34",
+    "word": "devolver",
+    "infinitive": "zurückgeben",
+    "present3rd": "gibt zurück",
+    "preterite": "gab zurück",
+    "perfect": "hat zurückgegeben"
+  },
+  {
+    "id": "verb-35",
+    "word": "gostar",
+    "infinitive": "mögen",
+    "present3rd": "mag",
+    "preterite": "mochte",
+    "perfect": "hat gemocht"
+  },
+  {
+    "id": "verb-36",
+    "word": "ser / estar",
+    "infinitive": "sein",
+    "present3rd": "ist",
+    "preterite": "war",
+    "perfect": "ist gewesen"
+  },
+  {
+    "id": "verb-37",
+    "word": "chamar (to be called / named)",
+    "infinitive": "heißen",
+    "present3rd": "heißt",
+    "preterite": "hieß",
+    "perfect": "hat geheißen"
+  },
+  {
+    "id": "verb-38",
+    "word": "dizer",
+    "infinitive": "sagen",
+    "present3rd": "sagt",
+    "preterite": "sagte",
+    "perfect": "hat gesagt"
+  },
+  {
+    "id": "verb-39",
+    "word": "fazer (to make)",
+    "infinitive": "machen",
+    "present3rd": "macht",
+    "preterite": "machte",
+    "perfect": "hat gemacht"
+  },
+  {
+    "id": "verb-40",
+    "word": "pesquisar",
+    "infinitive": "recherchieren",
+    "present3rd": "recherchiert",
+    "preterite": "recherchierte",
+    "perfect": "hat recherchiert"
+  },
+  {
+    "id": "verb-41",
+    "word": "escrever",
+    "infinitive": "schreiben",
+    "present3rd": "schreibt",
+    "preterite": "schrieb",
+    "perfect": "hat geschrieben"
+  },
+  {
+    "id": "verb-42",
+    "word": "trabalhar",
+    "infinitive": "arbeiten",
+    "present3rd": "arbeitet",
+    "preterite": "arbeitete",
+    "perfect": "hat gearbeitet"
+  },
+  {
+    "id": "verb-43",
+    "word": "precisar",
+    "infinitive": "brauchen",
+    "present3rd": "braucht",
+    "preterite": "brauchte",
+    "perfect": "hat gebraucht"
+  },
+  {
+    "id": "verb-44",
+    "word": "vir",
+    "infinitive": "kommen",
+    "present3rd": "kommt",
+    "preterite": "kam",
+    "perfect": "ist gekommen"
+  },
+  {
+    "id": "verb-45",
+    "word": "esperar",
+    "infinitive": "warten",
+    "present3rd": "wartet",
+    "preterite": "wartete",
+    "perfect": "hat gewartet"
+  },
+  {
+    "id": "verb-46",
+    "word": "saber",
+    "infinitive": "wissen",
+    "present3rd": "weiß",
+    "preterite": "wusste",
+    "perfect": "hat gewusst"
+  },
+  {
+    "id": "verb-47",
+    "word": "perguntar",
+    "infinitive": "fragen",
+    "present3rd": "fragt",
+    "preterite": "fragte",
+    "perfect": "hat gefragt"
+  },
+  {
+    "id": "verb-48",
+    "word": "responder",
+    "infinitive": "antworten",
+    "present3rd": "antwortet",
+    "preterite": "antwortete",
+    "perfect": "hat geantwortet"
+  },
+  {
+    "id": "verb-49",
+    "word": "ficar / permanecer",
+    "infinitive": "bleiben",
+    "present3rd": "bleibt",
+    "preterite": "blieb",
+    "perfect": "ist geblieben"
+  },
+  {
+    "id": "verb-50",
+    "word": "conhecer",
+    "infinitive": "kennen",
+    "present3rd": "kennt",
+    "preterite": "kannte",
+    "perfect": "hat gekannt"
+  },
+  {
+    "id": "verb-51",
+    "word": "fumar",
+    "infinitive": "rauchen",
+    "present3rd": "raucht",
+    "preterite": "rauchte",
+    "perfect": "hat geraucht"
+  },
+  {
+    "id": "verb-52",
+    "word": "beber",
+    "infinitive": "trinken",
+    "present3rd": "trinkt",
+    "preterite": "trank",
+    "perfect": "hat getrunken"
+  },
+  {
+    "id": "verb-53",
+    "word": "limpar",
+    "infinitive": "putzen",
+    "present3rd": "putzt",
+    "preterite": "putzte",
+    "perfect": "hat geputzt"
+  },
+  {
+    "id": "verb-54",
+    "word": "cantar",
+    "infinitive": "singen",
+    "present3rd": "singt",
+    "preterite": "sang",
+    "perfect": "hat gesungen"
+  },
+  {
+    "id": "verb-55",
+    "word": "dançar",
+    "infinitive": "tanzen",
+    "present3rd": "tanzt",
+    "preterite": "tanzte",
+    "perfect": "hat / ist getanzt"
+  },
+  {
+    "id": "verb-56",
+    "word": "tocar / jogar",
+    "infinitive": "spielen",
+    "present3rd": "spielt",
+    "preterite": "spielte",
+    "perfect": "hat gespielt"
+  },
+  {
+    "id": "verb-57",
+    "word": "querer dizer (to mean)",
+    "infinitive": "meinen",
+    "present3rd": "meint",
+    "preterite": "meinte",
+    "perfect": "hat gemeint"
+  },
+  {
+    "id": "verb-58",
+    "word": "pensar / acreditar",
+    "infinitive": "glauben",
+    "present3rd": "glaubt",
+    "preterite": "glaubte",
+    "perfect": "hat geglaubt"
+  },
+  {
+    "id": "verb-59",
+    "word": "ir",
+    "infinitive": "gehen",
+    "present3rd": "geht",
+    "preterite": "ging",
+    "perfect": "ist gegangen"
+  },
+  {
+    "id": "verb-60",
+    "word": "constar / estar (to stand)",
+    "infinitive": "stehen",
+    "present3rd": "steht",
+    "preterite": "stand",
+    "perfect": "hat / ist gestanden"
+  },
+  {
+    "id": "verb-61",
+    "word": "estar situado (to lie)",
+    "infinitive": "liegen",
+    "present3rd": "liegt",
+    "preterite": "lag",
+    "perfect": "hat / ist gelegen"
+  },
+  {
+    "id": "verb-62",
+    "word": "vender",
+    "infinitive": "verkaufen",
+    "present3rd": "verkauft",
+    "preterite": "verkaufte",
+    "perfect": "hat verkauft"
+  },
+  {
+    "id": "verb-63",
+    "word": "comprar",
+    "infinitive": "kaufen",
+    "present3rd": "kauft",
+    "preterite": "kaufte",
+    "perfect": "hat gekauft"
+  },
+  {
+    "id": "verb-64",
+    "word": "ouvir",
+    "infinitive": "hören",
+    "present3rd": "hört",
+    "preterite": "hörte",
+    "perfect": "hat gehört"
+  },
+  {
+    "id": "verb-65",
+    "word": "falar",
+    "infinitive": "sprechen",
+    "present3rd": "spricht",
+    "preterite": "sprach",
+    "perfect": "hat gesprochen"
+  },
+  {
+    "id": "verb-66",
+    "word": "ver",
+    "infinitive": "sehen",
+    "present3rd": "sieht",
+    "preterite": "sah",
+    "perfect": "hat gesehen"
+  },
+  {
+    "id": "verb-67",
+    "word": "tentar / experimentar",
+    "infinitive": "probieren",
+    "present3rd": "probiert",
+    "preterite": "probierte",
+    "perfect": "hat probiert"
+  },
+  {
+    "id": "verb-68",
+    "word": "mostrar",
+    "infinitive": "zeigen",
+    "present3rd": "zeigt",
+    "preterite": "zeigte",
+    "perfect": "hat gezeigt"
+  },
+  {
+    "id": "verb-69",
+    "word": "procurar",
+    "infinitive": "suchen",
+    "present3rd": "sucht",
+    "preterite": "suchte",
+    "perfect": "hat gesucht"
+  },
+  {
+    "id": "verb-70",
+    "word": "custar",
+    "infinitive": "kosten",
+    "present3rd": "kostet",
+    "preterite": "kostete",
+    "perfect": "hat gekostet"
+  },
+  {
+    "id": "verb-71",
+    "word": "pegar / levar",
+    "infinitive": "nehmen",
+    "present3rd": "nimmt",
+    "preterite": "nahm",
+    "perfect": "hat genommen"
+  },
+  {
+    "id": "verb-72",
+    "word": "amar",
+    "infinitive": "lieben",
+    "present3rd": "liebt",
+    "preterite": "liebte",
+    "perfect": "hat geliebt"
+  },
+  {
+    "id": "verb-73",
+    "word": "congelar",
+    "infinitive": "frieren",
+    "present3rd": "friert",
+    "preterite": "fror",
+    "perfect": "hat gefroren"
+  },
+  {
+    "id": "verb-74",
+    "word": "olhar",
+    "infinitive": "schauen",
+    "present3rd": "schaut",
+    "preterite": "schaute",
+    "perfect": "hat geschaut"
+  },
+  {
+    "id": "verb-75",
+    "word": "ter",
+    "infinitive": "haben",
+    "present3rd": "hat",
+    "preterite": "hatte",
+    "perfect": "hat gehabt"
+  },
+  {
+    "id": "verb-76",
+    "word": "dirigir / ir (com um veículo)",
+    "infinitive": "fahren",
+    "present3rd": "fährt",
+    "preterite": "fuhr",
+    "perfect": "ist gefahren"
+  },
+  {
+    "id": "verb-77",
+    "word": "pagar",
+    "infinitive": "be/zahlen",
+    "present3rd": "be/zahlt",
+    "preterite": "be/zahlte",
+    "perfect": "hat bezahlt/gezahlt"
+  },
+  {
+    "id": "verb-78",
+    "word": "dormir",
+    "infinitive": "schlafen",
+    "present3rd": "schläft",
+    "preterite": "schlief",
+    "perfect": "hat geschlafen"
+  },
+  {
+    "id": "verb-79",
+    "word": "entender",
+    "infinitive": "verstehen",
+    "present3rd": "versteht",
+    "preterite": "verstand",
+    "perfect": "hat verstanden"
+  },
+  {
+    "id": "verb-80",
+    "word": "ler",
+    "infinitive": "lesen",
+    "present3rd": "liest",
+    "preterite": "las",
+    "perfect": "hat gelesen"
+  },
+  {
+    "id": "verb-81",
+    "word": "perturbar / incomodar",
+    "infinitive": "stören",
+    "present3rd": "stört",
+    "preterite": "störte",
+    "perfect": "hat gestört"
+  },
+  {
+    "id": "verb-82",
+    "word": "pedir (to order)",
+    "infinitive": "bestellen",
+    "present3rd": "bestellt",
+    "preterite": "bestellte",
+    "perfect": "hat bestellt"
+  },
+  {
+    "id": "verb-83",
+    "word": "convidar",
+    "infinitive": "einladen",
+    "present3rd": "lädt ein",
+    "preterite": "lud ein",
+    "perfect": "hat eingeladen"
+  },
+  {
+    "id": "verb-84",
+    "word": "telefonar",
+    "infinitive": "anrufen",
+    "present3rd": "ruft an",
+    "preterite": "rief an",
+    "perfect": "hat angerufen"
+  },
+  {
+    "id": "verb-85",
+    "word": "vir junto",
+    "infinitive": "mitkommen",
+    "present3rd": "kommt mit",
+    "preterite": "kam mit",
+    "perfect": "ist mitgekommen"
+  },
+  {
+    "id": "verb-86",
+    "word": "pensar sobre / considerar / refletir sobre / imaginar",
+    "infinitive": "(sich etwas) überlegen",
+    "present3rd": "überlegt",
+    "preterite": "überlegte",
+    "perfect": "hat überlegt"
+  },
+  {
+    "id": "verb-87",
+    "word": "partir (de viagem)",
+    "infinitive": "abreisen",
+    "present3rd": "reist ab",
+    "preterite": "reiste ab",
+    "perfect": "ist abgereist"
+  },
+  {
+    "id": "verb-88",
+    "word": "poder (to be able to)",
+    "infinitive": "können",
+    "present3rd": "kann",
+    "preterite": "konnte",
+    "perfect": "hat gekonnt"
+  },
+  {
+    "id": "verb-89",
+    "word": "ajudar",
+    "infinitive": "helfen",
+    "present3rd": "hilft",
+    "preterite": "half",
+    "perfect": "hat geholfen"
+  },
+  {
+    "id": "verb-90",
+    "word": "fazer (to do)",
+    "infinitive": "tun",
+    "present3rd": "tut",
+    "preterite": "tat",
+    "perfect": "hat getan"
+  },
+  {
+    "id": "verb-91",
+    "word": "segurar / manter / parar",
+    "infinitive": "halten",
+    "present3rd": "hält",
+    "preterite": "hielt",
+    "perfect": "hat gehalten"
+  },
+  {
+    "id": "verb-92",
+    "word": "contar (to tell)",
+    "infinitive": "erzählen",
+    "present3rd": "erzählt",
+    "preterite": "erzählte",
+    "perfect": "hat erzählt"
+  },
+  {
+    "id": "verb-93",
+    "word": "aparentar / parecer",
+    "infinitive": "aussehen",
+    "present3rd": "sieht aus",
+    "preterite": "sah aus",
+    "perfect": "hat ausgesehen"
+  },
+  {
+    "id": "verb-94",
+    "word": "aconselhar / adivinhar",
+    "infinitive": "raten",
+    "present3rd": "rät",
+    "preterite": "riet",
+    "perfect": "hat geraten"
+  },
+  {
+    "id": "verb-95",
+    "word": "pendurar / estar pendurado (to hang)",
+    "infinitive": "hängen",
+    "present3rd": "hängt",
+    "preterite": "hing",
+    "perfect": "hat gehangen"
+  },
+  {
+    "id": "verb-96",
+    "word": "pegar / removar / atender o telefone",
+    "infinitive": "abnehmen",
+    "present3rd": "nimmt ab",
+    "preterite": "nahm ab",
+    "perfect": "hat abgenommen"
+  },
+  {
+    "id": "verb-97",
+    "word": "visitar (sightseeing)",
+    "infinitive": "besichtigen",
+    "present3rd": "besichtigt",
+    "preterite": "besichtigte",
+    "perfect": "hat besichtigt"
+  },
+  {
+    "id": "verb-98",
+    "word": "estar correto",
+    "infinitive": "stimmen",
+    "present3rd": "stimmt",
+    "preterite": "stimmte",
+    "perfect": "hat gestimmt"
+  },
+  {
+    "id": "verb-99",
+    "word": "olhar para / assistir",
+    "infinitive": "zusehen",
+    "present3rd": "sieht zu",
+    "preterite": "sah zu",
+    "perfect": "hat zugesehen"
+  },
+  {
+    "id": "verb-100",
+    "word": "ganhar",
+    "infinitive": "gewinnen",
+    "present3rd": "gewinnt",
+    "preterite": "gewann",
+    "perfect": "hat gewonnen"
+  },
+  {
+    "id": "verb-101",
+    "word": "ser permitido (to be allowed / permitted)",
+    "infinitive": "dürfen",
+    "present3rd": "darf",
+    "preterite": "durfte",
+    "perfect": "hat gedurft"
+  },
+  {
+    "id": "verb-102",
+    "word": "pedir / implorar",
+    "infinitive": "bitten",
+    "present3rd": "bittet",
+    "preterite": "bat",
+    "perfect": "hat gebeten"
+  },
+  {
+    "id": "verb-103",
+    "word": "ensinar",
+    "infinitive": "unterrichten",
+    "present3rd": "unterrichtet",
+    "preterite": "unterrichtete",
+    "perfect": "hat unterrichtet"
+  },
+  {
+    "id": "verb-104",
+    "word": "assinar",
+    "infinitive": "unterschreiben",
+    "present3rd": "unterschreibt",
+    "preterite": "unterschreibte",
+    "perfect": "hat unterschrieben"
+  },
+  {
+    "id": "verb-105",
+    "word": "tocar / soar (to ring)",
+    "infinitive": "klingeln",
+    "present3rd": "klingelt",
+    "preterite": "klingelte",
+    "perfect": "hat geklingelt"
+  },
+  {
+    "id": "verb-106",
+    "word": "dever (should)",
+    "infinitive": "sollen",
+    "present3rd": "soll",
+    "preterite": "sollte",
+    "perfect": "hat gesollt"
+  },
+  {
+    "id": "verb-107",
+    "word": "buscar / ir pegar (to fetch / get, não específico)",
+    "infinitive": "holen",
+    "present3rd": "holt",
+    "preterite": "holte",
+    "perfect": "hat geholt"
+  },
+  {
+    "id": "verb-108",
+    "word": "apresentar",
+    "infinitive": "vorstellen",
+    "present3rd": "stellt vor",
+    "preterite": "stellte vor",
+    "perfect": "hat vorgestellt"
+  },
+  {
+    "id": "verb-109",
+    "word": "visitar / frequentar",
+    "infinitive": "besuchen",
+    "present3rd": "besucht",
+    "preterite": "besuchte",
+    "perfect": "hat besucht"
+  },
+  {
+    "id": "verb-110",
+    "word": "fazer compras",
+    "infinitive": "einkaufen",
+    "present3rd": "kauft ein",
+    "preterite": "kaufte ein",
+    "perfect": "hat eingekauft"
+  },
+  {
+    "id": "verb-111",
+    "word": "querer",
+    "infinitive": "wollen",
+    "present3rd": "will",
+    "preterite": "wollte",
+    "perfect": "hat gewollt"
+  },
+  {
+    "id": "verb-112",
+    "word": "tomar uma ducha",
+    "infinitive": "duschen",
+    "present3rd": "duscht",
+    "preterite": "duschte",
+    "perfect": "hat geduscht"
+  },
+  {
+    "id": "verb-113",
+    "word": "agradar",
+    "infinitive": "gefallen",
+    "present3rd": "gefällt",
+    "preterite": "gefiel",
+    "perfect": "hat gefallen"
+  },
+  {
+    "id": "verb-114",
+    "word": "enviar",
+    "infinitive": "schicken",
+    "present3rd": "schickt",
+    "preterite": "schickte",
+    "perfect": "hast geschickt"
+  },
+  {
+    "id": "verb-115",
+    "word": "observar / prestar atenção",
+    "infinitive": "beachten",
+    "present3rd": "beachtet",
+    "preterite": "beachtete",
+    "perfect": "hat beachtet"
+  },
+  {
+    "id": "verb-116",
+    "word": "arrumar / organizar",
+    "infinitive": "aufräumen",
+    "present3rd": "räumt auf",
+    "preterite": "räumte auf",
+    "perfect": "hat aufgeräumt"
+  },
+  {
+    "id": "verb-117",
+    "word": "levantar",
+    "infinitive": "aufstehen",
+    "present3rd": "steht auf",
+    "preterite": "stand auf",
+    "perfect": "ist aufgestanden"
+  },
+  {
+    "id": "verb-118",
+    "word": "sair (to go out)",
+    "infinitive": "ausgehen",
+    "present3rd": "geht aus",
+    "preterite": "ging aus",
+    "perfect": "ist ausgegangen"
+  },
+  {
+    "id": "verb-119",
+    "word": "assistir TV",
+    "infinitive": "fernsehen",
+    "present3rd": "sieht fern",
+    "preterite": "sah fern",
+    "perfect": "hat ferngesehen"
+  },
+  {
+    "id": "verb-120",
+    "word": "tomar café da manhã",
+    "infinitive": "frühstücken",
+    "present3rd": "frühstückt",
+    "preterite": "frühstückte",
+    "perfect": "hat gefrühstückt"
+  },
+  {
+    "id": "verb-121",
+    "word": "interessar",
+    "infinitive": "interessieren",
+    "present3rd": "interessiert",
+    "preterite": "interessierte",
+    "perfect": "hat interessiert"
+  },
+  {
+    "id": "verb-122",
+    "word": "pensar",
+    "infinitive": "denken",
+    "present3rd": "denkt",
+    "preterite": "dachte",
+    "perfect": "hat gedacht"
+  },
+  {
+    "id": "verb-123",
+    "word": "agir / portar-se",
+    "infinitive": "handeln",
+    "present3rd": "handelt",
+    "preterite": "handelte",
+    "perfect": "hat gehandelt"
+  },
+  {
+    "id": "verb-124",
+    "word": "significar",
+    "infinitive": "bedeuten",
+    "present3rd": "bedeutet",
+    "preterite": "bedeutete",
+    "perfect": "hat bedeutet"
+  },
+  {
+    "id": "verb-125",
+    "word": "explicar / clarificar",
+    "infinitive": "erklären",
+    "present3rd": "erklärt",
+    "preterite": "erklärte",
+    "perfect": "hat erklärt"
+  },
+  {
+    "id": "verb-126",
+    "word": "começar",
+    "infinitive": "anfangen",
+    "present3rd": "fängt an",
+    "preterite": "fing an",
+    "perfect": "hat angefangen"
+  },
+  {
+    "id": "verb-127",
+    "word": "parar",
+    "infinitive": "aufhören",
+    "present3rd": "hört auf",
+    "preterite": "hörte auf",
+    "perfect": "hat aufgehört"
+  },
+  {
+    "id": "verb-128",
+    "word": "cozinhar",
+    "infinitive": "kochen",
+    "present3rd": "kocht",
+    "preterite": "kochte",
+    "perfect": "hat gekocht"
+  },
+  {
+    "id": "verb-129",
+    "word": "corrigir",
+    "infinitive": "korrigieren",
+    "present3rd": "korrigiert",
+    "preterite": "korrigierte",
+    "perfect": "hat korrigiert"
+  },
+  {
+    "id": "verb-130",
+    "word": "anotar enquanto ouve",
+    "infinitive": "mitschreiben",
+    "present3rd": "schreibt mit",
+    "preterite": "schrieb mit",
+    "perfect": "hat mitgeschrieben"
+  },
+  {
+    "id": "verb-131",
+    "word": "preparar",
+    "infinitive": "vorbereiten",
+    "present3rd": "bereitet vor",
+    "preterite": "beritt vor",
+    "perfect": "hat vorbereitet"
+  },
+  {
+    "id": "verb-132",
+    "word": "ler em voz alta",
+    "infinitive": "vorlesen",
+    "present3rd": "liest vor",
+    "preterite": "las vor",
+    "perfect": "hat vorgelesen"
+  },
+  {
+    "id": "verb-133",
+    "word": "lavar",
+    "infinitive": "waschen",
+    "present3rd": "wäscht",
+    "preterite": "wusch",
+    "perfect": "hat gewaschen"
+  },
+  {
+    "id": "verb-134",
+    "word": "buscar (de algm / lugar específico)",
+    "infinitive": "abholen",
+    "present3rd": "holt ab",
+    "preterite": "holte ab",
+    "perfect": "hat abgeholt"
+  },
+  {
+    "id": "verb-135",
+    "word": "reportar",
+    "infinitive": "berichten",
+    "present3rd": "berichtet",
+    "preterite": "berichtete",
+    "perfect": "hat berichtet"
+  },
+  {
+    "id": "verb-136",
+    "word": "dormir (sem hora para acordar)",
+    "infinitive": "ausschlafen",
+    "present3rd": "schläft aus",
+    "preterite": "schlief aus",
+    "perfect": "hat ausgeschlafen"
+  },
+  {
+    "id": "verb-137",
+    "word": "sonhar",
+    "infinitive": "träumen",
+    "present3rd": "träumt",
+    "preterite": "träumte",
+    "perfect": "hat geträumt"
+  },
+  {
+    "id": "verb-138",
+    "word": "caber (to fit)",
+    "infinitive": "passen",
+    "present3rd": "passt",
+    "preterite": "passte",
+    "perfect": "hat gepasst"
+  },
+  {
+    "id": "verb-139",
+    "word": "ter gosto (to taste)",
+    "infinitive": "schmecken",
+    "present3rd": "schmeckt",
+    "preterite": "schmeckte",
+    "perfect": "hat geschmeckt"
+  },
+  {
+    "id": "verb-140",
+    "word": "prometer",
+    "infinitive": "versprechen",
+    "present3rd": "verspricht",
+    "preterite": "versprach",
+    "perfect": "hat versprochen"
+  },
+  {
+    "id": "verb-141",
+    "word": "encontrar (alguém)",
+    "infinitive": "treffen",
+    "present3rd": "trifft",
+    "preterite": "traf",
+    "perfect": "hat getroffen"
+  },
+  {
+    "id": "verb-142",
+    "word": "chamar / nomear",
+    "infinitive": "nennen",
+    "present3rd": "nennt",
+    "preterite": "nannte",
+    "perfect": "hat genannt"
+  },
+  {
+    "id": "verb-143",
+    "word": "fazer bem",
+    "infinitive": "guttun",
+    "present3rd": "tut gut",
+    "preterite": "tat gut",
+    "perfect": "hat gutgetan"
+  },
+  {
+    "id": "verb-144",
+    "word": "anotar",
+    "infinitive": "notieren",
+    "present3rd": "notiert",
+    "preterite": "notierte",
+    "perfect": "hat notiert"
+  },
+  {
+    "id": "verb-145",
+    "word": "conversar",
+    "infinitive": "reden",
+    "present3rd": "redet",
+    "preterite": "redete",
+    "perfect": "hat geredet"
+  },
+  {
+    "id": "verb-146",
+    "word": "esperar que (to hope)",
+    "infinitive": "hoffen",
+    "present3rd": "hofft",
+    "preterite": "hoffte",
+    "perfect": "hat gehofft"
+  },
+  {
+    "id": "verb-147",
+    "word": "pingar",
+    "infinitive": "tropfen",
+    "present3rd": "tropft",
+    "preterite": "tropfte",
+    "perfect": "hat getropft"
+  },
+  {
+    "id": "verb-148",
+    "word": "acontecer (to happen)",
+    "infinitive": "passieren",
+    "present3rd": "passiert",
+    "preterite": "passierte",
+    "perfect": "ist passiert"
+  },
+  {
+    "id": "verb-149",
+    "word": "brecar / frear",
+    "infinitive": "bremsen",
+    "present3rd": "bremst",
+    "preterite": "bremste",
+    "perfect": "hat gebremst"
+  },
+  {
+    "id": "verb-150",
+    "word": "bater (to crash)",
+    "infinitive": "krachen",
+    "present3rd": "kracht",
+    "preterite": "krachte",
+    "perfect": "ist gekracht"
+  },
+  {
+    "id": "verb-151",
+    "word": "esquecer",
+    "infinitive": "vergessen",
+    "present3rd": "vergisst",
+    "preterite": "vergaß",
+    "perfect": "hat vergessen"
+  },
+  {
+    "id": "verb-152",
+    "word": "desapontar / decepcionar",
+    "infinitive": "enttäuschen",
+    "present3rd": "enttäuscht",
+    "preterite": "enttäuschte",
+    "perfect": "hat enttäuscht"
+  },
+  {
+    "id": "verb-153",
+    "word": "tratar / lidar com  (to handle)",
+    "infinitive": "behandeln",
+    "present3rd": "behandelt",
+    "preterite": "behandelte",
+    "perfect": "hat behandelt"
+  },
+  {
+    "id": "verb-154",
+    "word": "ouvir a algo / alguém",
+    "infinitive": "zuhören",
+    "present3rd": "hört zu",
+    "preterite": "hörte zu",
+    "perfect": "hat zugehört"
+  },
+  {
+    "id": "verb-155",
+    "word": "vir de",
+    "infinitive": "herkommen",
+    "present3rd": "kommt her",
+    "preterite": "kam her",
+    "perfect": "ist hergekommen"
+  },
+  {
+    "id": "verb-156",
+    "word": "jurar",
+    "infinitive": "beschwören",
+    "present3rd": "beschwört",
+    "preterite": "beschwor",
+    "perfect": "hat beschworen"
+  },
+  {
+    "id": "verb-157",
+    "word": "chegar",
+    "infinitive": "ankommen",
+    "present3rd": "kommt an",
+    "preterite": "kam an",
+    "perfect": "ist angekommen"
+  },
+  {
+    "id": "verb-158",
+    "word": "durar",
+    "infinitive": "dauern",
+    "present3rd": "dauert",
+    "preterite": "dauerte",
+    "perfect": "hat gedauert"
+  },
+  {
+    "id": "verb-159",
+    "word": "baldear / mudar de linha",
+    "infinitive": "umsteigen",
+    "present3rd": "steigt um",
+    "preterite": "stieg um",
+    "perfect": "ist umgestiegen"
+  },
+  {
+    "id": "verb-160",
+    "word": "levar junto",
+    "infinitive": "mitnehmen",
+    "present3rd": "nimmt mit",
+    "preterite": "nahm mit",
+    "perfect": "hat mitgenommen"
+  },
+  {
+    "id": "verb-161",
+    "word": "criar",
+    "infinitive": "schaffen",
+    "present3rd": "schafft",
+    "preterite": "schuf",
+    "perfect": "hat geschaffen"
+  },
+  {
+    "id": "verb-162",
+    "word": "acender",
+    "infinitive": "anmachen",
+    "present3rd": "macht an",
+    "preterite": "machte an",
+    "perfect": "hat angemacht"
+  },
+  {
+    "id": "verb-163",
+    "word": "recomendar",
+    "infinitive": "empfehlen",
+    "present3rd": "empfiehlt",
+    "preterite": "empfahl",
+    "perfect": "hat empfohlen"
+  },
+  {
+    "id": "verb-164",
+    "word": "abrir",
+    "infinitive": "öffnen",
+    "present3rd": "öffnet",
+    "preterite": "öffnete",
+    "perfect": "hat geöffnet"
+  },
+  {
+    "id": "verb-165",
+    "word": "entrar",
+    "infinitive": "reinkommen",
+    "present3rd": "kommt rein",
+    "preterite": "kam rein",
+    "perfect": "ist reingekommen"
+  },
+  {
+    "id": "verb-166",
+    "word": "desempacotar",
+    "infinitive": "auspacken",
+    "present3rd": "packt aus",
+    "preterite": "packte aus",
+    "perfect": "hat ausgepackt"
+  },
+  {
+    "id": "verb-167",
+    "word": "distribuir / servir",
+    "infinitive": "verteilen",
+    "present3rd": "verteilt",
+    "preterite": "verteilte",
+    "perfect": "hat verteilt"
+  },
+  {
+    "id": "verb-168",
+    "word": "voltar",
+    "infinitive": "wiederkommen",
+    "present3rd": "kommt wieder",
+    "preterite": "kam wieder",
+    "perfect": "ist wiedergekommen"
+  },
+  {
+    "id": "verb-169",
+    "word": "secar (algo)",
+    "infinitive": "abtrocknen",
+    "present3rd": "trocknet ab",
+    "preterite": "trocknete ab",
+    "perfect": "hat abgetrocknet"
+  },
+  {
+    "id": "verb-170",
+    "word": "lavar (algo)",
+    "infinitive": "waschen",
+    "present3rd": "wäscht",
+    "preterite": "wusch",
+    "perfect": "hat gewaschen"
+  },
+  {
+    "id": "verb-171",
+    "word": "pendurar (algo)",
+    "infinitive": "aufhängen",
+    "present3rd": "hängt auf",
+    "preterite": "hängte auf",
+    "perfect": "hat aufgehängt"
+  },
+  {
+    "id": "verb-172",
+    "word": "esvaziar (algo)",
+    "infinitive": "ausräumen",
+    "present3rd": "räumt aus",
+    "preterite": "räumte aus",
+    "perfect": "hat ausgeräumt"
+  },
+  {
+    "id": "verb-173",
+    "word": "colocar algo dentro",
+    "infinitive": "einräumen",
+    "present3rd": "räumt ein",
+    "preterite": "räumte ein",
+    "perfect": "hat eingeräumt"
+  },
+  {
+    "id": "verb-174",
+    "word": "varrer",
+    "infinitive": "kehren",
+    "present3rd": "kehrt",
+    "preterite": "kehrte",
+    "perfect": "hat gekehrt"
+  },
+  {
+    "id": "verb-175",
+    "word": "trazer junto",
+    "infinitive": "mitbringen",
+    "present3rd": "bringt mit",
+    "preterite": "brachte mit",
+    "perfect": "hat mitgebracht"
+  },
+  {
+    "id": "verb-176",
+    "word": "aspirar",
+    "infinitive": "saugen",
+    "present3rd": "saugt",
+    "preterite": "saugte",
+    "perfect": "hat gesaugt"
+  },
+  {
+    "id": "verb-177",
+    "word": "lavar a louça",
+    "infinitive": "spülen",
+    "present3rd": "spült",
+    "preterite": "spülte",
+    "perfect": "hat gespült"
+  },
+  {
+    "id": "verb-178",
+    "word": "aspirar o pó",
+    "infinitive": "staubsaugen",
+    "present3rd": "staubsaugt",
+    "preterite": "sstaubaugte",
+    "perfect": "hat gestaubsaugt"
+  },
+  {
+    "id": "verb-179",
+    "word": "pescar",
+    "infinitive": "angeln",
+    "present3rd": "angelt",
+    "preterite": "angelte",
+    "perfect": "hat geangelt"
+  },
+  {
+    "id": "verb-180",
+    "word": "fotografar",
+    "infinitive": "fotografieren",
+    "present3rd": "fotografiert",
+    "preterite": "fotografierte",
+    "perfect": "hat fotografiert"
+  },
+  {
+    "id": "verb-181",
+    "word": "correr (fazer jogging)",
+    "infinitive": "joggen",
+    "present3rd": "joggt",
+    "preterite": "joggte",
+    "perfect": "ist gejoggt"
+  },
+  {
+    "id": "verb-182",
+    "word": "correr",
+    "infinitive": "laufen",
+    "present3rd": "läuft",
+    "preterite": "lief",
+    "perfect": "ist gelaufen"
+  },
+  {
+    "id": "verb-183",
+    "word": "passear",
+    "infinitive": "spazieren gehen",
+    "present3rd": "geht spazieren",
+    "preterite": "ging spazieren",
+    "perfect": "ist spazieren gegangen"
+  },
+  {
+    "id": "verb-184",
+    "word": "praticar esporte",
+    "infinitive": "Sport treiben",
+    "present3rd": "Sport treibt",
+    "preterite": "Sport trieb",
+    "perfect": "hat Sport getrieben"
+  },
+  {
+    "id": "verb-185",
+    "word": "fazer caminhada / hiking",
+    "infinitive": "wandern",
+    "present3rd": "wandert",
+    "preterite": "wanderte",
+    "perfect": "ist gewandert"
+  },
+  {
+    "id": "verb-186",
+    "word": "ganhar / receber / obter algo",
+    "infinitive": "bekommen",
+    "present3rd": "bekommt",
+    "preterite": "bekam",
+    "perfect": "hat bekommen"
+  },
+  {
+    "id": "verb-187",
+    "word": "estar envolvido / enredado",
+    "infinitive": "verstricken",
+    "present3rd": "verstrickt",
+    "preterite": "verstrickte",
+    "perfect": "hat verstrickt"
+  },
+  {
+    "id": "verb-188",
+    "word": "produzir / fabricar",
+    "infinitive": "herstellen",
+    "present3rd": "stellt her",
+    "preterite": "stellte her",
+    "perfect": "hat hergestellt"
+  },
+  {
+    "id": "verb-189",
+    "word": "ter / possuir",
+    "infinitive": "besitzen",
+    "present3rd": "besitzt",
+    "preterite": "besaß",
+    "perfect": "hat besessen"
+  },
+  {
+    "id": "verb-190",
+    "word": "esticar",
+    "infinitive": "recken",
+    "present3rd": "reckt",
+    "preterite": "reckte",
+    "perfect": "hat gereckt"
+  },
+  {
+    "id": "verb-191",
+    "word": "espreitar",
+    "infinitive": "spähen",
+    "present3rd": "späht",
+    "preterite": "spähte",
+    "perfect": "hat gespäht"
+  },
+  {
+    "id": "verb-192",
+    "word": "descobrir / revelar",
+    "infinitive": "aufdecken",
+    "present3rd": "deckt auf",
+    "preterite": "deckte auf",
+    "perfect": "hat aufgedeckt"
+  },
+  {
+    "id": "verb-193",
+    "word": "sair / vazar / to come out",
+    "infinitive": "herauskommen",
+    "present3rd": "kommt heraus",
+    "preterite": "kam heraus",
+    "perfect": "ist herausgekommen"
+  },
+  {
+    "id": "verb-194",
+    "word": "afirmar / to claim",
+    "infinitive": "behaupten",
+    "present3rd": "behauptet",
+    "preterite": "behauptete",
+    "perfect": "hat behauptet"
+  },
+  {
+    "id": "verb-195",
+    "word": "estremecer",
+    "infinitive": "schaudern",
+    "present3rd": "schaudert",
+    "preterite": "schauderte",
+    "perfect": "hat geschaudert"
+  },
+  {
+    "id": "verb-196",
+    "word": "manter-se afastado",
+    "infinitive": "fernzuhalten",
+    "present3rd": "hält fern",
+    "preterite": "hielt fern",
+    "perfect": "hat ferngehalten"
+  },
+  {
+    "id": "verb-197",
+    "word": "impor",
+    "infinitive": "verhängen",
+    "present3rd": "verhängt",
+    "preterite": "verhing",
+    "perfect": "hat verhängt"
+  },
+  {
+    "id": "verb-198",
+    "word": "reconhecer / dicerninr",
+    "infinitive": "erkennen",
+    "present3rd": "erkennt",
+    "preterite": "erkannte",
+    "perfect": "hat erkannt"
+  },
+  {
+    "id": "verb-199",
+    "word": "acontecer / ocorer",
+    "infinitive": "geschehen",
+    "present3rd": "geschieht",
+    "preterite": "geschah",
+    "perfect": "ist geschehen"
+  },
+  {
+    "id": "verb-200",
+    "word": "cantarolar",
+    "infinitive": "summen",
+    "present3rd": "summt",
+    "preterite": "summte",
+    "perfect": "hat gesummt"
+  },
+  {
+    "id": "verb-201",
+    "word": "tagarelar",
+    "infinitive": "schwatzen",
+    "present3rd": "schwatzt",
+    "preterite": "schwatzte",
+    "perfect": "hat geschwatzt"
+  },
+  {
+    "id": "verb-202",
+    "word": "gritar",
+    "infinitive": "schreien",
+    "present3rd": "schreit",
+    "preterite": "schrie",
+    "perfect": "hat geschrie(e)n"
+  },
+  {
+    "id": "verb-203",
+    "word": "lutar",
+    "infinitive": "rangeln",
+    "present3rd": "rangelt",
+    "preterite": "rangelte",
+    "perfect": "hat gerangelt"
+  },
+  {
+    "id": "verb-204",
+    "word": "forçar",
+    "infinitive": "zwängen",
+    "present3rd": "zwängt",
+    "preterite": "zwängte",
+    "perfect": "hat gezwängt"
+  },
+  {
+    "id": "verb-205",
+    "word": "agarrar",
+    "infinitive": "greifen",
+    "present3rd": "greift",
+    "preterite": "griff",
+    "perfect": "hat gegriffen"
+  },
+  {
+    "id": "verb-206",
+    "word": "sair / desembarcar",
+    "infinitive": "aussteigen",
+    "present3rd": "steigt aus",
+    "preterite": "stieg aus",
+    "perfect": "ist ausgestiegen"
+  },
+  {
+    "id": "verb-207",
+    "word": "descansar",
+    "infinitive": "faulenzen",
+    "present3rd": "faulenzt",
+    "preterite": "faulenzte",
+    "perfect": "hat gefaulenzt"
+  },
+  {
+    "id": "verb-208",
+    "word": "ficar parado",
+    "infinitive": "stehen bleiben",
+    "present3rd": "bleibt stehen",
+    "preterite": "blieb stehen",
+    "perfect": "ist stehen geblieben"
+  },
+  {
+    "id": "verb-209",
+    "word": "passar a noite / pernoitar",
+    "infinitive": "übernachten",
+    "present3rd": "übernachtet",
+    "preterite": "übernachtete",
+    "perfect": "hat übernachtet"
+  },
+  {
+    "id": "verb-210",
+    "word": "acampar",
+    "infinitive": "zelten",
+    "present3rd": "zeltet",
+    "preterite": "zeltete",
+    "perfect": "hat gezeltet"
+  },
+  {
+    "id": "verb-211",
+    "word": "parar (algo)",
+    "infinitive": "stoppen",
+    "present3rd": "stoppt",
+    "preterite": "stoppte",
+    "perfect": "hat gestoppt"
+  },
+  {
+    "id": "verb-212",
+    "word": "assar",
+    "infinitive": "backen",
+    "present3rd": "backt / bäckt",
+    "preterite": "backte",
+    "perfect": "hat gebacken"
+  },
+  {
+    "id": "verb-213",
+    "word": "polvilhar",
+    "infinitive": "bestreuen",
+    "present3rd": "bestreut",
+    "preterite": "bestreute",
+    "perfect": "hat bestreut"
+  },
+  {
+    "id": "verb-214",
+    "word": "fritar",
+    "infinitive": "braten",
+    "present3rd": "brät",
+    "preterite": "briet",
+    "perfect": "hat gebraten"
+  },
+  {
+    "id": "verb-215",
+    "word": "despejar",
+    "infinitive": "gießen",
+    "present3rd": "gießt",
+    "preterite": "goss",
+    "perfect": "hat gegossen"
+  },
+  {
+    "id": "verb-216",
+    "word": "descascar",
+    "infinitive": "schälen",
+    "present3rd": "schält",
+    "preterite": "schälte",
+    "perfect": "hat geschält"
+  },
+  {
+    "id": "verb-217",
+    "word": "cortar",
+    "infinitive": "schneiden",
+    "present3rd": "schneidet",
+    "preterite": "schnitt",
+    "perfect": "hat geschnitten"
+  },
+  {
+    "id": "verb-218",
+    "word": "servir",
+    "infinitive": "servieren",
+    "present3rd": "serviert",
+    "preterite": "servierte",
+    "perfect": "hat serviert"
+  },
+  {
+    "id": "verb-219",
+    "word": "misturar / mexer",
+    "infinitive": "verrühren",
+    "present3rd": "verrührt",
+    "preterite": "verrührte",
+    "perfect": "hat verrührt"
+  },
+  {
+    "id": "verb-220",
+    "word": "temperar",
+    "infinitive": "würzen",
+    "present3rd": "würzt",
+    "preterite": "würzte",
+    "perfect": "hat gewürzt"
+  },
+  {
+    "id": "verb-221",
+    "word": "desaparecer",
+    "infinitive": "verschwinden",
+    "present3rd": "verschwindet",
+    "preterite": "verschwand",
+    "perfect": "ist verschwunden"
+  },
+  {
+    "id": "verb-222",
+    "word": "ficar sabendo, averiguar",
+    "infinitive": "erfahren",
+    "present3rd": "erfährt",
+    "preterite": "erfuhr",
+    "perfect": "hat erfahren"
+  },
+  {
+    "id": "verb-223",
+    "word": "descobrir",
+    "infinitive": "entdecken",
+    "present3rd": "entdeckt",
+    "preterite": "entdeckte",
+    "perfect": "hat entdeckt"
+  },
+  {
+    "id": "verb-224",
+    "word": "oferecer",
+    "infinitive": "bieten",
+    "present3rd": "bietet",
+    "preterite": "bot",
+    "perfect": "hat geboten"
+  },
+  {
+    "id": "verb-225",
+    "word": "embrulhar",
+    "infinitive": "einpacken",
+    "present3rd": "packt ein",
+    "preterite": "packte ein",
+    "perfect": "hat eingepackt"
+  },
+  {
+    "id": "verb-226",
+    "word": "perder",
+    "infinitive": "verlieren",
+    "present3rd": "verliert",
+    "preterite": "verlor",
+    "perfect": "hat verloren"
+  },
+  {
+    "id": "verb-227",
+    "word": "grelhar",
+    "infinitive": "grillen",
+    "present3rd": "grillt",
+    "preterite": "grillte",
+    "perfect": "hat gegrillt"
+  },
+  {
+    "id": "verb-228",
+    "word": "rir",
+    "infinitive": "lachen",
+    "present3rd": "lacht",
+    "preterite": "lachte",
+    "perfect": "hat gelacht"
+  },
+  {
+    "id": "verb-229",
+    "word": "ir embora com o veículo",
+    "infinitive": "wegfahren",
+    "present3rd": "fährt weg",
+    "preterite": "fuhr weg",
+    "perfect": "ist weggefahren"
+  },
+  {
+    "id": "verb-230",
+    "word": "carregar / usar / vestir",
+    "infinitive": "tragen",
+    "present3rd": "trägt",
+    "preterite": "trug",
+    "perfect": "hat getragen"
+  },
+  {
+    "id": "verb-231",
+    "word": "acordar",
+    "infinitive": "aufwachen",
+    "present3rd": "wacht auf",
+    "preterite": "wachte auf",
+    "perfect": "ist aufgewacht"
+  },
+  {
+    "id": "verb-232",
+    "word": "adormecer",
+    "infinitive": "einschlafen",
+    "present3rd": "schläft ein",
+    "preterite": "schlief ein",
+    "perfect": "ist eingeschlafen"
+  },
+  {
+    "id": "verb-233",
+    "word": "chover",
+    "infinitive": "regnen",
+    "present3rd": "regnet",
+    "preterite": "regnete",
+    "perfect": "hat geregnet"
+  },
+  {
+    "id": "verb-234",
+    "word": "brilhar",
+    "infinitive": "scheinen",
+    "present3rd": "scheint",
+    "preterite": "schien",
+    "perfect": "hat geschienen"
+  },
+  {
+    "id": "verb-235",
+    "word": "nevar",
+    "infinitive": "schneien",
+    "present3rd": "schneit",
+    "preterite": "schneite",
+    "perfect": "hat geschneit"
+  },
+  {
+    "id": "verb-236",
+    "word": "soprar",
+    "infinitive": "wehen",
+    "present3rd": "weht",
+    "preterite": "wehte",
+    "perfect": "hat geweht"
+  },
+  {
+    "id": "verb-237",
+    "word": "vestir",
+    "infinitive": "anziehen",
+    "present3rd": "zieht an",
+    "preterite": "zog an",
+    "perfect": "hat angezogen"
+  },
+  {
+    "id": "verb-238",
+    "word": "misturar",
+    "infinitive": "mischen",
+    "present3rd": "mischt",
+    "preterite": "mischte",
+    "perfect": "hat gemischt"
+  },
+  {
+    "id": "verb-239",
+    "word": "estar vestindo",
+    "infinitive": "anhaben",
+    "present3rd": "hat an",
+    "preterite": "hatte an",
+    "perfect": "hat angehabt"
+  },
+  {
+    "id": "verb-240",
+    "word": "viver",
+    "infinitive": "leben",
+    "present3rd": "lebt",
+    "preterite": "lebte",
+    "perfect": "hat gelebt"
+  },
+  {
+    "id": "verb-241",
+    "word": "desvestir",
+    "infinitive": "ausziehen",
+    "present3rd": "zieht aus",
+    "preterite": "zog aus",
+    "perfect": "hat ausgezogen"
+  },
+  {
+    "id": "verb-242",
+    "word": "contatar (to reach)",
+    "infinitive": "erreichen",
+    "present3rd": "erreicht",
+    "preterite": "erreichte",
+    "perfect": "hat erreicht"
+  },
+  {
+    "id": "verb-243",
+    "word": "brigar",
+    "infinitive": "streiten",
+    "present3rd": "streitet",
+    "preterite": "stritt",
+    "perfect": "hat gestritten"
+  },
+  {
+    "id": "verb-244",
+    "word": "sair de viagem (go away)",
+    "infinitive": "verreisen",
+    "present3rd": "verreist",
+    "preterite": "verreiste",
+    "perfect": "ist verreist"
+  },
+  {
+    "id": "verb-245",
+    "word": "desligar o telefone",
+    "infinitive": "auflegen",
+    "present3rd": "legt auf",
+    "preterite": "legte auf",
+    "perfect": "hat aufgelegt"
+  },
+  {
+    "id": "verb-246",
+    "word": "regar",
+    "infinitive": "gießen",
+    "present3rd": "gießt",
+    "preterite": "goss",
+    "perfect": "hat gegossen"
+  },
+  {
+    "id": "verb-247",
+    "word": "casar",
+    "infinitive": "heiraten",
+    "present3rd": "heiratet",
+    "preterite": "heihatete",
+    "perfect": "hat gehairatet"
+  },
+  {
+    "id": "verb-248",
+    "word": "entediar",
+    "infinitive": "langweilen",
+    "present3rd": "langweilt",
+    "preterite": "langweilte",
+    "perfect": "hat gelangweilt"
+  },
+  {
+    "id": "verb-249",
+    "word": "enervar",
+    "infinitive": "nerven",
+    "present3rd": "nervt",
+    "preterite": "nervte",
+    "perfect": "hat genervt"
+  },
+  {
+    "id": "verb-250",
+    "word": "alimentar",
+    "infinitive": "füttern",
+    "present3rd": "füttert",
+    "preterite": "fütterte",
+    "perfect": "hat gefüttert"
+  },
+  {
+    "id": "verb-251",
+    "word": "continuar procurando",
+    "infinitive": "weitersuchen",
+    "present3rd": "sucht weiter",
+    "preterite": "suchte weiter",
+    "perfect": "hat weitergesucht"
+  },
+  {
+    "id": "verb-252",
+    "word": "escalar",
+    "infinitive": "klettern",
+    "present3rd": "klettert",
+    "preterite": "kletterte",
+    "perfect": "ist geklettert"
+  },
+  {
+    "id": "verb-253",
+    "word": "machucar",
+    "infinitive": "verletzen",
+    "present3rd": "verletzt",
+    "preterite": "verletzte",
+    "perfect": "hat verletzt"
+  },
+  {
+    "id": "verb-254",
+    "word": "participar de algo",
+    "infinitive": "mitmachen",
+    "present3rd": "macht mit",
+    "preterite": "machte mit",
+    "perfect": "hat mitgemacht"
+  },
+  {
+    "id": "verb-255",
+    "word": "treinar",
+    "infinitive": "trainieren",
+    "present3rd": "trainiert",
+    "preterite": "trainierte",
+    "perfect": "hat trainiert"
+  },
+  {
+    "id": "verb-256",
+    "word": "atirar",
+    "infinitive": "schießen",
+    "present3rd": "schießt",
+    "preterite": "schoss",
+    "perfect": "hat geschossen"
+  },
+  {
+    "id": "verb-257",
+    "word": "perder peso",
+    "infinitive": "abnehmen",
+    "present3rd": "nimmt ab",
+    "preterite": "nahm ab",
+    "perfect": "hat abgenommen"
+  },
+  {
+    "id": "verb-258",
+    "word": "engordar",
+    "infinitive": "zunehmen",
+    "present3rd": "nimmt zu",
+    "preterite": "nahm zu",
+    "perfect": "hat zugenommen"
+  },
+  {
+    "id": "verb-259",
+    "word": "relaxar",
+    "infinitive": "ausruhen",
+    "present3rd": "ruht aus",
+    "preterite": "ruhte aus",
+    "perfect": "hat ausgeruht"
+  },
+  {
+    "id": "verb-260",
+    "word": "movimentar",
+    "infinitive": "bewegen",
+    "present3rd": "bewegt",
+    "preterite": "bewegte",
+    "perfect": "hat bewegt"
+  },
+  {
+    "id": "verb-261",
+    "word": "sentir-se",
+    "infinitive": "sich fühlen",
+    "present3rd": "fühlt",
+    "preterite": "fühlte",
+    "perfect": "hat gefühlt"
+  },
+  {
+    "id": "verb-262",
+    "word": "pular",
+    "infinitive": "springen",
+    "present3rd": "springt",
+    "preterite": "sprang",
+    "perfect": "ist gesprungen"
+  },
+  {
+    "id": "verb-263",
+    "word": "funcionar",
+    "infinitive": "funktionieren",
+    "present3rd": "funktioniert",
+    "preterite": "funktionierte",
+    "perfect": "hat funktioniert"
+  },
+  {
+    "id": "verb-264",
+    "word": "olhar / examinar",
+    "infinitive": "anschauen",
+    "present3rd": "schaut an",
+    "preterite": "schaute an",
+    "perfect": "hat angeschaut"
+  },
+  {
+    "id": "verb-265",
+    "word": "alegrar-se por algo/alguém",
+    "infinitive": "sich auf etwas/jemanden freuen",
+    "present3rd": "freut",
+    "preterite": "freute",
+    "perfect": "hat gefreut"
+  },
+  {
+    "id": "verb-266",
+    "word": "passar (to go past)",
+    "infinitive": "vorbeikommen",
+    "present3rd": "kommt vorbei",
+    "preterite": "kam vorbei",
+    "perfect": "ist vorbeigekommen"
+  },
+  {
+    "id": "verb-267",
+    "word": "sentir falta (algo que deveria estar lá não está)",
+    "infinitive": "fehlen",
+    "present3rd": "fehlt",
+    "preterite": "fehlte",
+    "perfect": "hat gefehlt"
+  },
+  {
+    "id": "verb-267",
+    "word": "sentir falta / saudade",
+    "infinitive": "vermissen",
+    "present3rd": "vermisst",
+    "preterite": "vermisste",
+    "perfect": "hat vermisst"
+  },
+  {
+    "id": "verb-268",
+    "word": "ir embora",
+    "infinitive": "weggehen",
+    "present3rd": "geht weg",
+    "preterite": "ging weg",
+    "perfect": "ist weggegangen"
+  },
+  {
+    "id": "verb-269",
+    "word": "sangrar",
+    "infinitive": "bluten",
+    "present3rd": "blutet",
+    "preterite": "blutete",
+    "perfect": "hat geblutet"
+  },
+  {
+    "id": "verb-270",
+    "word": "esfriar",
+    "infinitive": "kühlen",
+    "present3rd": "kühlt",
+    "preterite": "kühlte",
+    "perfect": "hat gekühlt"
+  },
+  {
+    "id": "verb-271",
+    "word": "cair",
+    "infinitive": "stürzen",
+    "present3rd": "stürzt",
+    "preterite": "stürzte",
+    "perfect": "ist gestürzt"
+  },
+  {
+    "id": "verb-272",
+    "word": "doer / machucar",
+    "infinitive": "wehtun",
+    "present3rd": "tut weh",
+    "preterite": "tat weh",
+    "perfect": "hat wehgetan"
+  },
+  {
+    "id": "verb-273",
+    "word": "terminar / completar (finish / complete)",
+    "infinitive": "beenden",
+    "present3rd": "beendet",
+    "preterite": "beendete",
+    "perfect": "hat beendet"
+  },
+  {
+    "id": "verb-274",
+    "word": "sonhar",
+    "infinitive": "träumen",
+    "present3rd": "träumt",
+    "preterite": "träumte",
+    "perfect": "hat geträumt"
+  },
+  {
+    "id": "verb-275",
+    "word": "desejar",
+    "infinitive": "wünschen",
+    "present3rd": "wünscht",
+    "preterite": "wünschte",
+    "perfect": "hat gewünscht"
+  },
+  {
+    "id": "verb-276",
+    "word": "mudar (algo)",
+    "infinitive": "ändern",
+    "present3rd": "ändert",
+    "preterite": "änderte",
+    "perfect": "hat geändert"
+  },
+  {
+    "id": "verb-277",
+    "word": "expirar",
+    "infinitive": "ausatmen",
+    "present3rd": "atmet aus",
+    "preterite": "atmete aus",
+    "perfect": "hat ausgeatmet"
+  },
+  {
+    "id": "verb-278",
+    "word": "usar (no sentido físico/concreto)",
+    "infinitive": "benutzen",
+    "present3rd": "benutzt",
+    "preterite": "benutzte",
+    "perfect": "hat benutzt"
+  },
+  {
+    "id": "verb-279",
+    "word": "inspirar",
+    "infinitive": "einatmen",
+    "present3rd": "atmet ein",
+    "preterite": "atmete ein",
+    "perfect": "hat eingeatmet"
+  },
+  {
+    "id": "verb-280",
+    "word": "dar um atestado médico",
+    "infinitive": "krankschreiben",
+    "present3rd": "schreibt krank",
+    "preterite": "schrieb krank",
+    "perfect": "hat krankgeschrieben"
+  },
+  {
+    "id": "verb-281",
+    "word": "operar",
+    "infinitive": "operieren",
+    "present3rd": "operiert",
+    "preterite": "operierte",
+    "perfect": "hat operiert"
+  },
+  {
+    "id": "verb-282",
+    "word": "prescrever",
+    "infinitive": "verschreiben",
+    "present3rd": "verschreibt",
+    "preterite": "verschrieb",
+    "perfect": "hat verschrieben"
+  },
+  {
+    "id": "verb-283",
+    "word": "examinar",
+    "infinitive": "untersuchen",
+    "present3rd": "untersucht",
+    "preterite": "untersuchte",
+    "perfect": "hat untersucht"
+  },
+  {
+    "id": "verb-284",
+    "word": "decidir",
+    "infinitive": "entscheiden",
+    "present3rd": "entscheidet",
+    "preterite": "entschied",
+    "perfect": "hat entschieden"
+  },
+  {
+    "id": "verb-285",
+    "word": "passar roupa",
+    "infinitive": "bügeln",
+    "present3rd": "bügelt",
+    "preterite": "bügelte",
+    "perfect": "hat gebügelt"
+  },
+  {
+    "id": "verb-286",
+    "word": "ser publicado",
+    "infinitive": "erscheinen",
+    "present3rd": "erscheint",
+    "preterite": "erschien",
+    "perfect": "ist erschienen"
+  },
+  {
+    "id": "verb-287",
+    "word": "fugir (de algo)",
+    "infinitive": "(vor etwas) fliehen",
+    "present3rd": "flieht",
+    "preterite": "floh",
+    "perfect": "ist geflohen"
+  },
+  {
+    "id": "verb-288",
+    "word": "pertencer a alguém",
+    "infinitive": "jemandem gehören",
+    "present3rd": "gehört",
+    "preterite": "gehörte",
+    "perfect": "hat gehört"
+  },
+  {
+    "id": "verb-289",
+    "word": "morrer",
+    "infinitive": "sterben",
+    "present3rd": "stirbt",
+    "preterite": "starb",
+    "perfect": "ist gestorben"
+  },
+  {
+    "id": "verb-290",
+    "word": "pegar / assumir (take over)",
+    "infinitive": "übernehmen",
+    "present3rd": "übernimmt",
+    "preterite": "übernahm",
+    "perfect": "hat übernommen"
+  },
+  {
+    "id": "verb-291",
+    "word": "cuidar de",
+    "infinitive": "aufpassen",
+    "present3rd": "passt auf",
+    "preterite": "passte auf",
+    "perfect": "hat aufgepasst"
+  },
+  {
+    "id": "verb-292",
+    "word": "empacotar",
+    "infinitive": "packen",
+    "present3rd": "packt",
+    "preterite": "packte",
+    "perfect": "hat gepackt"
+  },
+  {
+    "id": "verb-293",
+    "word": "ganhar algo (salário)",
+    "infinitive": "verdienen",
+    "present3rd": "verdient",
+    "preterite": "verdiente",
+    "perfect": "hat verdient"
+  },
+  {
+    "id": "verb-294",
+    "word": "abandonar",
+    "infinitive": "verlassen",
+    "present3rd": "verlässt",
+    "preterite": "verließ",
+    "perfect": "hat verlassen"
+  },
+  {
+    "id": "verb-295",
+    "word": "chorar",
+    "infinitive": "weinen",
+    "present3rd": "weint",
+    "preterite": "weinte",
+    "perfect": "hat geweint"
+  },
+  {
+    "id": "verb-296",
+    "word": "verificar",
+    "infinitive": "nachsehen",
+    "present3rd": "sieht nach",
+    "preterite": "sah nach",
+    "perfect": "hat nachgesehen"
+  },
+  {
+    "id": "verb-297",
+    "word": "melhorar algo",
+    "infinitive": "verbessern",
+    "present3rd": "verbessert",
+    "preterite": "verbesserte",
+    "perfect": "hat verbessert"
+  },
+  {
+    "id": "verb-298",
+    "word": "marcar algo / (to arrange)",
+    "infinitive": "vereinbaren",
+    "present3rd": "vereinbart",
+    "preterite": "vereinbarte",
+    "perfect": "hat vereinbart"
+  },
+  {
+    "id": "verb-299",
+    "word": "tomar lugar (to take place)",
+    "infinitive": "stattfinden",
+    "present3rd": "findet statt",
+    "preterite": "fand statt",
+    "perfect": "hat stattgefunden"
+  },
+  {
+    "id": "verb-300",
+    "word": "inscrever-se",
+    "infinitive": "sich anmelden",
+    "present3rd": "meldet an",
+    "preterite": "meldete an",
+    "perfect": "hat angemeldet"
+  },
+  {
+    "id": "verb-301",
+    "word": "distribuir / dar / gastar",
+    "infinitive": "ausgeben",
+    "present3rd": "gibt aus",
+    "preterite": "gab aus",
+    "perfect": "hat ausgegeben"
+  },
+  {
+    "id": "verb-302",
+    "word": "abrir / inaugurar / iniciar",
+    "infinitive": "eröffnen",
+    "present3rd": "eröffnet",
+    "preterite": "eröffnete",
+    "perfect": "hat eröffnet"
+  },
+  {
+    "id": "verb-303",
+    "word": "dispor / atingir / conseguir",
+    "infinitive": "leisten",
+    "present3rd": "leistet",
+    "preterite": "leistete",
+    "perfect": "hat geleistet"
+  },
+  {
+    "id": "verb-304",
+    "word": "economizar / poupar",
+    "infinitive": "sparen",
+    "present3rd": "spart",
+    "preterite": "sparte",
+    "perfect": "hat gespart"
+  },
+  {
+    "id": "verb-305",
+    "word": "retornar / por de lado / poupar",
+    "infinitive": "zurücklegen",
+    "present3rd": "legt zurück",
+    "preterite": "legte zurück",
+    "perfect": "hat zurückgelegt"
+  },
+  {
+    "id": "verb-306",
+    "word": "sacar dinheiro",
+    "infinitive": "abheben",
+    "present3rd": "hebt ab",
+    "preterite": "hob ab",
+    "perfect": "hat abgehoben"
+  },
+  {
+    "id": "verb-307",
+    "word": "preencher",
+    "infinitive": "ausfüllen",
+    "present3rd": "füllt aus",
+    "preterite": "füllte aus",
+    "perfect": "hat ausgefüllt"
+  },
+  {
+    "id": "verb-308",
+    "word": "emprestar",
+    "infinitive": "leihen",
+    "present3rd": "leiht",
+    "preterite": "lieh",
+    "perfect": "hat geliehen"
+  },
+  {
+    "id": "verb-309",
+    "word": "perguntar (pedir explicação)",
+    "infinitive": "nachfragen",
+    "present3rd": "fragt nach",
+    "preterite": "fragte nach",
+    "perfect": "hat nachgefragt"
+  },
+  {
+    "id": "verb-310",
+    "word": "exceder / cobrir",
+    "infinitive": "überziehen",
+    "present3rd": "überzieht",
+    "preterite": "überzog",
+    "perfect": "hat überzogen"
+  },
+  {
+    "id": "verb-311",
+    "word": "debitar",
+    "infinitive": "abbuchen",
+    "present3rd": "bucht ab",
+    "preterite": "buchte ab",
+    "perfect": "hat abgebucht"
+  },
+  {
+    "id": "verb-312",
+    "word": "sair / deduzir",
+    "infinitive": "abgehen",
+    "present3rd": "geht ab",
+    "preterite": "ging ab",
+    "perfect": "ist abgegangen"
+  },
+  {
+    "id": "verb-313",
+    "word": "prestar atenção em algo/alguém",
+    "infinitive": "auf etwas achten",
+    "present3rd": "achtet",
+    "preterite": "achtete",
+    "perfect": "hat geachtet"
+  },
+  {
+    "id": "verb-314",
+    "word": "deixar ligado",
+    "infinitive": "anlassen",
+    "present3rd": "lässt an",
+    "preterite": "ließ an",
+    "perfect": "hat angelassen"
+  },
+  {
+    "id": "verb-315",
+    "word": "desligar",
+    "infinitive": "ausschalten",
+    "present3rd": "schaltet aus",
+    "preterite": "schaltete aus",
+    "perfect": "hat ausgeschaltet"
+  },
+  {
+    "id": "verb-316",
+    "word": "certificar / confirmar por escrito",
+    "infinitive": "bescheinigen",
+    "present3rd": "bescheinigt",
+    "preterite": "bescheinigte",
+    "perfect": "hat bescheinigt"
+  },
+  {
+    "id": "verb-317",
+    "word": "digitar",
+    "infinitive": "eingeben",
+    "present3rd": "gibt ein",
+    "preterite": "gab ein",
+    "perfect": "hat eingegeben"
+  },
+  {
+    "id": "verb-318",
+    "word": "chegar / entrar",
+    "infinitive": "eingehen",
+    "present3rd": "geht ein",
+    "preterite": "ging ein",
+    "perfect": "ist eingegangen"
+  },
+  {
+    "id": "verb-319",
+    "word": "abrir / implementar",
+    "infinitive": "einrichten",
+    "present3rd": "richtet ein",
+    "preterite": "richtete ein",
+    "perfect": "hat eingerichtet"
+  },
+  {
+    "id": "verb-320",
+    "word": "depositar",
+    "infinitive": "einzahlen",
+    "present3rd": "zahlt ein",
+    "preterite": "zahlte ein",
+    "perfect": "hat eingezahlt"
+  },
+  {
+    "id": "verb-321",
+    "word": "lembrar",
+    "infinitive": "erinnern",
+    "present3rd": "erinnert",
+    "preterite": "erinnerte",
+    "perfect": "hat erinnert"
+  },
+  {
+    "id": "verb-322",
+    "word": "pegar / levantar / emprestar (empréstimo)",
+    "infinitive": "aufnehmen",
+    "present3rd": "nimmt auf",
+    "preterite": "nahm auf",
+    "perfect": "hat aufgenommen"
+  },
+  {
+    "id": "verb-323",
+    "word": "cuidar de algo / preocupar-se",
+    "infinitive": "kümmern",
+    "present3rd": "kümmert",
+    "preterite": "kümmerte",
+    "perfect": "hat gekümmert"
+  },
+  {
+    "id": "verb-324",
+    "word": "calcular",
+    "infinitive": "rechnen",
+    "present3rd": "rechnet",
+    "preterite": "rechnete",
+    "perfect": "hat gerechnet"
+  },
+  {
+    "id": "verb-325",
+    "word": "dever (owe)",
+    "infinitive": "schulden",
+    "present3rd": "schuldet",
+    "preterite": "schuldete",
+    "perfect": "hat geschuldet"
+  },
+  {
+    "id": "verb-326",
+    "word": "transferir",
+    "infinitive": "überweisen",
+    "present3rd": "überweist",
+    "preterite": "überwies",
+    "perfect": "hat überwiesen"
+  },
+  {
+    "id": "verb-327",
+    "word": "consumir / gastar",
+    "infinitive": "verbrauchen",
+    "present3rd": "verbraucht",
+    "preterite": "verbrauchte",
+    "perfect": "hat verbraucht"
+  },
+  {
+    "id": "verb-328",
+    "word": "engolir",
+    "infinitive": "schlucken",
+    "present3rd": "schluckt",
+    "preterite": "schluckte",
+    "perfect": "hat geschluckt"
+  },
+  {
+    "id": "verb-329",
+    "word": "imprimir (print out)",
+    "infinitive": "ausdrucken",
+    "present3rd": "druckt aus",
+    "preterite": "druckte aus",
+    "perfect": "hat ausgedruckt"
+  },
+  {
+    "id": "verb-330",
+    "word": "escolher (específico - pick)",
+    "infinitive": "auswählen",
+    "present3rd": "wählt aus",
+    "preterite": "wählte aus",
+    "perfect": "hat ausgewählt"
+  },
+  {
+    "id": "verb-331",
+    "word": "imprimir (print)",
+    "infinitive": "drucken",
+    "present3rd": "druckt",
+    "preterite": "druckte",
+    "perfect": "hat gedruckt"
+  },
+  {
+    "id": "verb-332",
+    "word": "pressionar",
+    "infinitive": "drücken",
+    "present3rd": "drückt",
+    "preterite": "drückte",
+    "perfect": "hat gedrückt"
+  },
+  {
+    "id": "verb-333",
+    "word": "inserir",
+    "infinitive": "stecken",
+    "present3rd": "steckt",
+    "preterite": "steckte",
+    "perfect": "hat gesteckt"
+  },
+  {
+    "id": "verb-334",
+    "word": "pressionar tecla (type)",
+    "infinitive": "tippen",
+    "present3rd": "tippt",
+    "preterite": "tippte",
+    "perfect": "hat getippt"
+  },
+  {
+    "id": "verb-335",
+    "word": "ir embora / mandar-se (coloquial)",
+    "infinitive": "abhauen",
+    "present3rd": "haut ab",
+    "preterite": "haute ab",
+    "perfect": "hat abgehauen"
+  },
+  {
+    "id": "verb-336",
+    "word": "empurrar",
+    "infinitive": "schieben",
+    "present3rd": "schiebt",
+    "preterite": "schob",
+    "perfect": "hat geschoben"
+  },
+  {
+    "id": "verb-337",
+    "word": "descrever",
+    "infinitive": "beschreiben",
+    "present3rd": "beschreibt",
+    "preterite": "beschrieb",
+    "perfect": "hat beschrieben"
+  },
+  {
+    "id": "verb-338",
+    "word": "sorrir",
+    "infinitive": "lächeln",
+    "present3rd": "lächelt",
+    "preterite": "lächelte",
+    "perfect": "hat gelächelt"
+  },
+  {
+    "id": "verb-339",
+    "word": "traduzir",
+    "infinitive": "übersetzen",
+    "present3rd": "übersetzt",
+    "preterite": "übersetzte",
+    "perfect": "hat übersetzt"
+  },
+  {
+    "id": "verb-340",
+    "word": "acompanhar (alguém)",
+    "infinitive": "begleiten",
+    "present3rd": "begleitet",
+    "preterite": "begleitete",
+    "perfect": "hat begleitet"
+  },
+  {
+    "id": "verb-341",
+    "word": "cuidar (de alguém)",
+    "infinitive": "pflegen",
+    "present3rd": "pflegt",
+    "preterite": "pflegte",
+    "perfect": "hat gepflegt"
+  },
+  {
+    "id": "verb-342",
+    "word": "correr para fora",
+    "infinitive": "rauslaufen",
+    "present3rd": "läuft raus",
+    "preterite": "lief raus",
+    "perfect": "ist rausgelaufen"
+  },
+  {
+    "id": "verb-343",
+    "word": "apoiar (alguém)",
+    "infinitive": "unterstützen",
+    "present3rd": "unterstützt",
+    "preterite": "unterstützte",
+    "perfect": "hat unterstützt"
+  },
+  {
+    "id": "verb-344",
+    "word": "mudar-se (move in)",
+    "infinitive": "einziehen",
+    "present3rd": "zieht ein",
+    "preterite": "zog ein",
+    "perfect": "ist eingezogen"
+  },
+  {
+    "id": "verb-345",
+    "word": "varrer",
+    "infinitive": "fegen",
+    "present3rd": "fegt",
+    "preterite": "fegte",
+    "perfect": "hat gefegt"
+  },
+  {
+    "id": "verb-346",
+    "word": "leavar para fora",
+    "infinitive": "rausbringen",
+    "present3rd": "bringt raus",
+    "preterite": "brachte raus",
+    "perfect": "hat rausgebracht"
+  },
+  {
+    "id": "verb-347",
+    "word": "ficar calmo",
+    "infinitive": "ruhig bleiben",
+    "present3rd": "bleibt",
+    "preterite": "blieb",
+    "perfect": "ist geblieben"
+  },
+  {
+    "id": "verb-348",
+    "word": "limpar (wipe)",
+    "infinitive": "wischen",
+    "present3rd": "wischt",
+    "preterite": "wischte",
+    "perfect": "hat gewischt"
+  },
+  {
+    "id": "verb-349",
+    "word": "secar",
+    "infinitive": "trocknen",
+    "present3rd": "trocknet",
+    "preterite": "trocknete",
+    "perfect": "hat getrocknet"
+  },
+  {
+    "id": "verb-350",
+    "word": "levar embora",
+    "infinitive": "wegbringen",
+    "present3rd": "bringt weg",
+    "preterite": "brachte weg",
+    "perfect": "hat weggebracht"
+  },
+  {
+    "id": "verb-351",
+    "word": "fechar à chave",
+    "infinitive": "abschließen",
+    "present3rd": "schließt ab",
+    "preterite": "schloss ab",
+    "perfect": "hat abgeschlossen"
+  },
+  {
+    "id": "verb-352",
+    "word": "agradecer à alguém",
+    "infinitive": "(bei jemandem) bedanken",
+    "present3rd": "bedankt",
+    "preterite": "bedankte",
+    "perfect": "hat bedankt"
+  },
+  {
+    "id": "verb-352",
+    "word": "reclamar para alguém",
+    "infinitive": "(bei jemandem) sich beschweren",
+    "present3rd": "beschwert",
+    "preterite": "beschwerte",
+    "perfect": "hat beschwert"
+  },
+  {
+    "id": "verb-353",
+    "word": "oferecer algo",
+    "infinitive": "anbieten",
+    "present3rd": "bietet an",
+    "preterite": "bot an",
+    "perfect": "hat angeboten"
+  },
+  {
+    "id": "verb-354",
+    "word": "prestar assistência a alguém/algo",
+    "infinitive": "(etwas/jemanden) betreuen",
+    "present3rd": "betreut",
+    "preterite": "betreute",
+    "perfect": "hat betreut"
+  },
+  {
+    "id": "verb-355",
+    "word": "terminar / acabar",
+    "infinitive": "enden",
+    "present3rd": "endet",
+    "preterite": "endete",
+    "perfect": "hat geendet"
+  },
+  {
+    "id": "verb-356",
+    "word": "educar / criar alguém",
+    "infinitive": "erziehen",
+    "present3rd": "erzieht",
+    "preterite": "erzog",
+    "perfect": "hat erzogen"
+  },
+  {
+    "id": "verb-357",
+    "word": "pesar",
+    "infinitive": "wiegen",
+    "present3rd": "wiegt",
+    "preterite": "wog",
+    "perfect": "hat gewogen"
+  },
+  {
+    "id": "verb-358",
+    "word": "morar junto",
+    "infinitive": "zusammenwohnen",
+    "present3rd": "wohnt zusammen",
+    "preterite": "wohnte zusammen",
+    "perfect": "hat zusammengewohnt"
+  },
+  {
+    "id": "verb-359",
+    "word": "ser cancelado",
+    "infinitive": "ausfallen",
+    "present3rd": "fällt aus",
+    "preterite": "fiel aus",
+    "perfect": "ist ausgefallen"
+  },
+  {
+    "id": "verb-360",
+    "word": "voar para",
+    "infinitive": "hinfliegen",
+    "present3rd": "fliegt hin",
+    "preterite": "flog hin",
+    "perfect": "ist hingeflogen"
+  },
+  {
+    "id": "verb-361",
+    "word": "receber",
+    "infinitive": "kriegen",
+    "present3rd": "kriegt",
+    "preterite": "kriegte",
+    "perfect": "hat gekriegt"
+  },
+  {
+    "id": "verb-362",
+    "word": "voar de volta",
+    "infinitive": "zurückfliegen",
+    "present3rd": "fliegt zurück",
+    "preterite": "flog zurück",
+    "perfect": "ist zurückgeflogen"
+  },
+  {
+    "id": "verb-363",
+    "word": "virar",
+    "infinitive": "abbiegen",
+    "present3rd": "biegt ab",
+    "preterite": "bog ab",
+    "perfect": "ist abgebogen"
+  },
+  {
+    "id": "verb-364",
+    "word": "aceitar",
+    "infinitive": "akzeptieren",
+    "present3rd": "akzeptiert",
+    "preterite": "akzeptierte",
+    "perfect": "hat akzeptiert"
+  },
+  {
+    "id": "verb-365",
+    "word": "precisar / ser necessário (contexto formal)",
+    "infinitive": "benötigen",
+    "present3rd": "benötigt",
+    "preterite": "benötigte",
+    "perfect": "hat benötigt"
+  },
+  {
+    "id": "verb-366",
+    "word": "responder (a uma pergunta específica)",
+    "infinitive": "beantworten",
+    "present3rd": "beantwortet",
+    "preterite": "beantwortete",
+    "perfect": "hat beantwortet"
+  },
+  {
+    "id": "verb-367",
+    "word": "zelar / garantir",
+    "infinitive": "für etwas sorgen",
+    "present3rd": "sorgt",
+    "preterite": "sorgte",
+    "perfect": "hat gesorgt"
+  },
+  {
+    "id": "verb-368",
+    "word": "tratar de (completar, finalizar uma tarefa)",
+    "infinitive": "erledigen",
+    "present3rd": "erledigt",
+    "preterite": "erledigte",
+    "perfect": "hat erledigt"
+  },
+  {
+    "id": "verb-369",
+    "word": "cheirar",
+    "infinitive": "riechen",
+    "present3rd": "riecht",
+    "preterite": "roch",
+    "perfect": "hat gerochen"
+  },
+  {
+    "id": "verb-370",
+    "word": "ir direto, sem trocar de condução",
+    "infinitive": "durchfahren",
+    "present3rd": "fährt durch",
+    "preterite": "fuhr durch",
+    "perfect": "ist durchgefahren"
+  },
+  {
+    "id": "verb-371",
+    "word": "validar algo",
+    "infinitive": "entwerten",
+    "present3rd": "entwertet",
+    "preterite": "entwertete",
+    "perfect": "hat entwertet"
+  },
+  {
+    "id": "verb-372",
+    "word": "escolher",
+    "infinitive": "wählen",
+    "present3rd": "wählt",
+    "preterite": "wählte",
+    "perfect": "hat gewählt"
+  },
+  {
+    "id": "verb-373",
+    "word": "partir (com veículo)",
+    "infinitive": "abfahren",
+    "present3rd": "fährt ab",
+    "preterite": "fuhr ab",
+    "perfect": "ist abgefahren"
+  },
+  {
+    "id": "verb-374",
+    "word": "embarcar",
+    "infinitive": "einsteigen",
+    "present3rd": "steigt ein",
+    "preterite": "stieg ein",
+    "perfect": "ist eingestiegen"
+  },
+  {
+    "id": "verb-375",
+    "word": "ir lá (de veículo)",
+    "infinitive": "hinfahren",
+    "present3rd": "fährt hin",
+    "preterite": "fuhr hin",
+    "perfect": "ist hingefahren"
+  },
+  {
+    "id": "verb-376",
+    "word": "supor",
+    "infinitive": "vermuten",
+    "present3rd": "vermutet",
+    "preterite": "vermutete",
+    "perfect": "hat vermutet"
+  },
+  {
+    "id": "verb-377",
+    "word": "voltar (de veículo)",
+    "infinitive": "zurückfahren",
+    "present3rd": "fährt zurück",
+    "preterite": "fuhr zurück",
+    "perfect": "ist zurückgefahren"
+  },
+  {
+    "id": "verb-378",
+    "word": "secar-se",
+    "infinitive": "sich abtrocknen",
+    "present3rd": "trocknet ab",
+    "preterite": "trocknete ab",
+    "perfect": "hat abgetrocknet"
+  },
+  {
+    "id": "verb-379",
+    "word": "vestir-se",
+    "infinitive": "sich anziehen",
+    "present3rd": "zieht an",
+    "preterite": "zog an",
+    "perfect": "hat angezogen"
+  },
+  {
+    "id": "verb-380",
+    "word": "irritar-se / incomodar-se",
+    "infinitive": "sich (über etwas/jemanden) aufregen",
+    "present3rd": "regt auf",
+    "preterite": "regte auf",
+    "perfect": "hat aufgeregt"
+  },
+  {
+    "id": "verb-381",
+    "word": "tomar banho",
+    "infinitive": "(sich) duschen",
+    "present3rd": "duscht",
+    "preterite": "duschte",
+    "perfect": "hat geduscht"
+  },
+  {
+    "id": "verb-382",
+    "word": "passar creme",
+    "infinitive": "sich eincremen",
+    "present3rd": "cremt ein",
+    "preterite": "cremte ein",
+    "perfect": "hat eingecremt"
+  },
+  {
+    "id": "verb-383",
+    "word": "engajar-se",
+    "infinitive": "sich engagieren",
+    "present3rd": "engagiert",
+    "preterite": "engagierte",
+    "perfect": "hat engagiert"
+  },
+  {
+    "id": "verb-384",
+    "word": "decidir-se",
+    "infinitive": "sich entscheiden",
+    "present3rd": "entscheidet",
+    "preterite": "entschied",
+    "perfect": "hat entschieden"
+  },
+  {
+    "id": "verb-385",
+    "word": "relaxar",
+    "infinitive": "sich entspannen",
+    "present3rd": "entspannt",
+    "preterite": "entspannte",
+    "perfect": "hat entspannt"
+  },
+  {
+    "id": "verb-386",
+    "word": "interessar-se por",
+    "infinitive": "sich für etwas/jemanden interessieren",
+    "present3rd": "interessiert",
+    "preterite": "interessierte",
+    "perfect": "hat interessiert"
+  },
+  {
+    "id": "verb-387",
+    "word": "pentear",
+    "infinitive": "sich kämmen",
+    "present3rd": "kämmt",
+    "preterite": "kämmte",
+    "perfect": "hat gekämmt"
+  },
+  {
+    "id": "verb-388",
+    "word": "vir atrás (de alguém)",
+    "infinitive": "nachkommen",
+    "present3rd": "kommt nach",
+    "preterite": "kam nach",
+    "perfect": "ist nachgekommen"
+  },
+  {
+    "id": "verb-389",
+    "word": "barbear-se",
+    "infinitive": "sich rasieren",
+    "present3rd": "rasiert",
+    "preterite": "rasierte",
+    "perfect": "hat rasiert"
+  },
+  {
+    "id": "verb-390",
+    "word": "maquiar-se",
+    "infinitive": "sich schminken",
+    "present3rd": "schminkt",
+    "preterite": "schminkte",
+    "perfect": "hat geschminkt"
+  },
+  {
+    "id": "verb-391",
+    "word": "conversar (reflexivo)",
+    "infinitive": "sich unterhalten",
+    "present3rd": "unterhält",
+    "preterite": "unterhielt",
+    "perfect": "hat unterhalten"
+  },
+  {
+    "id": "verb-392",
+    "word": "combinar algo com alguém",
+    "infinitive": "sich (mit jemandem) verabreden",
+    "present3rd": "verabredet",
+    "preterite": "verabredete",
+    "perfect": "hat verabredet"
+  },
+  {
+    "id": "verb-393",
+    "word": "descansar/recuperar-se",
+    "infinitive": "sich erholen",
+    "present3rd": "erholt",
+    "preterite": "erholte",
+    "perfect": "hat erholt"
+  },
+  {
+    "id": "verb-394",
+    "word": "alegrar-se por alguém/algo por vir",
+    "infinitive": "sich auf etwas/jemanden freuen",
+    "present3rd": "freut",
+    "preterite": "freute",
+    "perfect": "hat gefreut"
+  },
+  {
+    "id": "verb-395",
+    "word": "alegrar-se por algo/alguém no presente",
+    "infinitive": "sich über etwas freuen",
+    "present3rd": "freut",
+    "preterite": "freute",
+    "perfect": "hat gefreut"
+  },
+  {
+    "id": "verb-396",
+    "word": "fazer bom uso de algo",
+    "infinitive": "etwas gut gebrauchen können",
+    "present3rd": "kann",
+    "preterite": "konnte",
+    "perfect": "hat gekonnt"
+  },
+  {
+    "id": "verb-397",
+    "word": "informar-se sobre alguma coisa",
+    "infinitive": "sich über etwas informieren",
+    "present3rd": "informiert",
+    "preterite": "informierte",
+    "perfect": "hat informiert"
+  },
+  {
+    "id": "verb-398",
+    "word": "clicar",
+    "infinitive": "klicken",
+    "present3rd": "klickt",
+    "preterite": "klickte",
+    "perfect": "hat geklickt"
+  },
+  {
+    "id": "verb-399",
+    "word": "combinar (fit) com alguém (algo)",
+    "infinitive": "zu jemandem/etwas passen",
+    "present3rd": "passt",
+    "preterite": "passte",
+    "perfect": "hat gepasst"
+  },
+  {
+    "id": "verb-400",
+    "word": "velejar",
+    "infinitive": "segeln",
+    "present3rd": "segelt",
+    "preterite": "segelte",
+    "perfect": "ist gesegelt"
+  },
+  {
+    "id": "verb-401",
+    "word": "surfar",
+    "infinitive": "surfen",
+    "present3rd": "surft",
+    "preterite": "surfte",
+    "perfect": "hat gesurft"
+  },
+  {
+    "id": "verb-402",
+    "word": "convencer",
+    "infinitive": "jemanden überzeugen",
+    "present3rd": "überzeugt",
+    "preterite": "überzeugte",
+    "perfect": "hat überzeugt"
+  },
+  {
+    "id": "verb-403",
+    "word": "ficar com raiva de alguém/alguma coisa",
+    "infinitive": "sich über jemanden/etwas ärgern",
+    "present3rd": "ärgert",
+    "preterite": "ärgerte",
+    "perfect": "hat geärgert"
+  },
+  {
+    "id": "verb-404",
+    "word": "abrir algo",
+    "infinitive": "aufmachen",
+    "present3rd": "macht auf",
+    "preterite": "machte auf",
+    "perfect": "hat aufgemacht"
+  },
+  {
+    "id": "verb-405",
+    "word": "irritar-se/incomodar-se",
+    "infinitive": "sich (über etwas/jemanden) aufregen",
+    "present3rd": "regt auf",
+    "preterite": "regte auf",
+    "perfect": "hat aufgeregt"
+  },
+  {
+    "id": "verb-406",
+    "word": "confirmar",
+    "infinitive": "bestätigen",
+    "present3rd": "bestätigt",
+    "preterite": "bestätigte",
+    "perfect": "hat bestätigt"
+  },
+  {
+    "id": "verb-407",
+    "word": "assistir (filme, televisão etc.)",
+    "infinitive": "gucken",
+    "present3rd": "guckt",
+    "preterite": "guckte",
+    "perfect": "hat geguckt"
+  },
+  {
+    "id": "verb-408",
+    "word": "dar certo / funcionar",
+    "infinitive": "klappen",
+    "present3rd": "klappt",
+    "preterite": "klappte",
+    "perfect": "hat geklappt"
+  },
+  {
+    "id": "verb-409",
+    "word": "ousar/atrever-se a fazer algo",
+    "infinitive": "sich (etwas) trauen",
+    "present3rd": "traut",
+    "preterite": "traute",
+    "perfect": "hat getraut"
+  },
+  {
+    "id": "verb-410",
+    "word": "jogar algo",
+    "infinitive": "(etwas) werfen",
+    "present3rd": "wirft",
+    "preterite": "warf",
+    "perfect": "hat geworfen"
+  },
+  {
+    "id": "verb-411",
+    "word": "expressar",
+    "infinitive": "etwas ausdrücken",
+    "present3rd": "drückt aus",
+    "preterite": "drückte aus",
+    "perfect": "hat ausgedrückt"
+  },
+  {
+    "id": "verb-412",
+    "word": "discutir com alguém",
+    "infinitive": "(mit jemandem) diskutieren",
+    "present3rd": "diskutiert",
+    "preterite": "diskutierte",
+    "perfect": "hat diskutiert"
+  },
+  {
+    "id": "verb-413",
+    "word": "aumentar algo",
+    "infinitive": "etwas erhöhen",
+    "present3rd": "erhöht",
+    "preterite": "erhöhte",
+    "perfect": "hat erhöht"
+  },
+  {
+    "id": "verb-414",
+    "word": "aumentar",
+    "infinitive": "sich erhöhen",
+    "present3rd": "erhöht",
+    "preterite": "erhöhte",
+    "perfect": "hat erhöht"
+  },
+  {
+    "id": "verb-415",
+    "word": "esclarecer algo",
+    "infinitive": "etwas klären",
+    "present3rd": "klärt",
+    "preterite": "klärte",
+    "perfect": "hat geklärt"
+  },
+  {
+    "id": "verb-416",
+    "word": "fechar",
+    "infinitive": "(etwas) schließen",
+    "present3rd": "schließt",
+    "preterite": "schloss",
+    "perfect": "hat geschlossen"
+  },
+  {
+    "id": "verb-417",
+    "word": "subir / aumentar",
+    "infinitive": "steigen",
+    "present3rd": "steigt",
+    "preterite": "stieg",
+    "perfect": "ist gestiegen"
+  },
+  {
+    "id": "verb-418",
+    "word": "mudar-se",
+    "infinitive": "sich verändern",
+    "present3rd": "verändert",
+    "preterite": "veränderte",
+    "perfect": "hat verändert"
+  },
+  {
+    "id": "verb-419",
+    "word": "espantar-se com algo",
+    "infinitive": "sich über etwas wundern",
+    "present3rd": "wundert",
+    "preterite": "wunderte",
+    "perfect": "hat gewundert"
+  },
+  {
+    "id": "verb-420",
+    "word": "ensinar algo a alguém",
+    "infinitive": "jemandem etwas beibringen",
+    "present3rd": "bringt bei",
+    "preterite": "brachte bei",
+    "perfect": "hat beigebracht"
+  },
+  {
+    "id": "verb-421",
+    "word": "ocupar-se",
+    "infinitive": "sich mit etwas beschäftigen",
+    "present3rd": "beschäftigt",
+    "preterite": "beschäftigte",
+    "perfect": "hat beschäftigt"
+  },
+  {
+    "id": "verb-422",
+    "word": "trair (alguém)/sair com outro(a)",
+    "infinitive": "(jemandem) fremdgehen",
+    "present3rd": "geht fremd",
+    "preterite": "ging fremd",
+    "perfect": "ist fremdgegangen"
+  },
+  {
+    "id": "verb-423",
+    "word": "mentir",
+    "infinitive": "lügen",
+    "present3rd": "lügt",
+    "preterite": "log",
+    "perfect": "hat gelogen"
+  },
+  {
+    "id": "verb-424",
+    "word": "confiar",
+    "infinitive": "jemandem vertrauen",
+    "present3rd": "vertraut",
+    "preterite": "vertraute",
+    "perfect": "hat vertraut"
+  },
+  {
+    "id": "verb-425",
+    "word": "pegar alguma coisa (catch)",
+    "infinitive": "fangen",
+    "present3rd": "fängt",
+    "preterite": "fing",
+    "perfect": "hat gefangen"
+  },
+  {
+    "id": "verb-426",
+    "word": "fundar algo",
+    "infinitive": "etwas gründen",
+    "present3rd": "gründet",
+    "preterite": "gründete",
+    "perfect": "hat gegründet"
+  },
+  {
+    "id": "verb-427",
+    "word": "cavalgar",
+    "infinitive": "reiten",
+    "present3rd": "reitet",
+    "preterite": "ritt",
+    "perfect": "ist geritten"
+  },
+  {
+    "id": "verb-428",
+    "word": "fazer ginástica",
+    "infinitive": "turnen",
+    "present3rd": "turnt",
+    "preterite": "turnte",
+    "perfect": "hat geturnt"
+  },
+  {
+    "id": "verb-429",
+    "word": "passar tempo",
+    "infinitive": "Zeit verbringen",
+    "present3rd": "verbringt",
+    "preterite": "verbrachte",
+    "perfect": "hat verbracht"
+  },
+  {
+    "id": "verb-430",
+    "word": "acalmar alguém",
+    "infinitive": "jemanden beruhigen",
+    "present3rd": "beruhigt",
+    "preterite": "beruhigte",
+    "perfect": "hat beruhigt"
+  },
+  {
+    "id": "verb-431",
+    "word": "pensar consigo",
+    "infinitive": "sich etwas denken",
+    "present3rd": "denkt",
+    "preterite": "dachte",
+    "perfect": "hat gedacht"
+  },
+  {
+    "id": "verb-432",
+    "word": "abraçar alguém (coloquial)",
+    "infinitive": "jemanden drücken",
+    "present3rd": "drückt",
+    "preterite": "drückte",
+    "perfect": "hat gedrückt"
+  },
+  {
+    "id": "verb-433",
+    "word": "beijar alguém",
+    "infinitive": "jemanden küssen",
+    "present3rd": "küsst",
+    "preterite": "küsste",
+    "perfect": "hat geküsst"
+  },
+  {
+    "id": "verb-434",
+    "word": "dar-se ao luxo / poder pagar",
+    "infinitive": "sich etwas leisten können",
+    "present3rd": "kann",
+    "preterite": "konnte",
+    "perfect": "hat gekonnt"
+  },
+  {
+    "id": "verb-435",
+    "word": "entrar em contato com alguém",
+    "infinitive": "sich bei jemandem melden",
+    "present3rd": "meldet",
+    "preterite": "meldete",
+    "perfect": "hat gemeldet"
+  },
+  {
+    "id": "verb-436",
+    "word": "abraçar alguém",
+    "infinitive": "jemanden umarmen",
+    "present3rd": "umarmt",
+    "preterite": "umarmte",
+    "perfect": "hat umarmt"
+  },
+  {
+    "id": "verb-437",
+    "word": "ter um plano / uma intenção",
+    "infinitive": "etwas vorhaben",
+    "present3rd": "hat vor",
+    "preterite": "hatte vor",
+    "perfect": "hat vorgehabt"
+  },
+  {
+    "id": "verb-438",
+    "word": "imaginar algo",
+    "infinitive": "sich etwas vorstellen",
+    "present3rd": "stellt vor",
+    "preterite": "stellte vor",
+    "perfect": "hat vorgestellt"
+  },
+  {
+    "id": "verb-439",
+    "word": "continuar",
+    "infinitive": "weitergehen",
+    "present3rd": "geht weiter",
+    "preterite": "ging weiter",
+    "perfect": "ist weitergegangen"
+  },
+  {
+    "id": "verb-440",
+    "word": "engajar-se",
+    "infinitive": "sich engagieren",
+    "present3rd": "engagiert",
+    "preterite": "engagierte",
+    "perfect": "hat engagiert"
+  },
+  {
+    "id": "verb-441",
+    "word": "congratular alguém",
+    "infinitive": "jemandem gratulieren",
+    "present3rd": "gratuliert",
+    "preterite": "gratulierte",
+    "perfect": "hat gratuliert"
+  },
+  {
+    "id": "verb-442",
+    "word": "prejudicar / causar estrago",
+    "infinitive": "jemandem/etwas schaden",
+    "present3rd": "schadet",
+    "preterite": "schadete",
+    "perfect": "hat geschadet"
+  },
+  {
+    "id": "verb-443",
+    "word": "assumir algo (to undertake)",
+    "infinitive": "etwas übernehmen",
+    "present3rd": "übernimmt",
+    "preterite": "übernahm",
+    "perfect": "hat übernommen"
+  },
+  {
+    "id": "verb-444",
+    "word": "procurar algo ou alguém no Google",
+    "infinitive": "etwas/jemanden googeln",
+    "present3rd": "googelt",
+    "preterite": "googelte",
+    "perfect": "hat gegoogelt"
+  },
+  {
+    "id": "verb-445",
+    "word": "baixar (download)",
+    "infinitive": "etwas herunterladen",
+    "present3rd": "lädt herunter",
+    "preterite": "lud herunter",
+    "perfect": "hat heruntergeladen"
+  },
+  {
+    "id": "verb-446",
+    "word": "gostar (no Facebook)",
+    "infinitive": "etwas liken",
+    "present3rd": "likt",
+    "preterite": "likte",
+    "perfect": "hat gelikt"
+  },
+  {
+    "id": "verb-447",
+    "word": "enviar um e-mail",
+    "infinitive": "(jemandem etwas) mailen",
+    "present3rd": "mailt",
+    "preterite": "mailte",
+    "perfect": "hat gemailt"
+  },
+  {
+    "id": "verb-448",
+    "word": "usar (no sentido abstrato)",
+    "infinitive": "etwas nutzen",
+    "present3rd": "nutzt",
+    "preterite": "nutzte",
+    "perfect": "hat genutzt"
+  },
+  {
+    "id": "verb-449",
+    "word": "postar algo (internet)",
+    "infinitive": "etwas posten",
+    "present3rd": "postet",
+    "preterite": "postete",
+    "perfect": "hat gepostet"
+  },
+  {
+    "id": "verb-450",
+    "word": "falar por skype",
+    "infinitive": "skypen",
+    "present3rd": "skypt",
+    "preterite": "skypte",
+    "perfect": "hat geskypt"
+  },
+  {
+    "id": "verb-451",
+    "word": "surfar / navegar na internet",
+    "infinitive": "surfen",
+    "present3rd": "surft",
+    "preterite": "surfte",
+    "perfect": "hat gesurft"
+  },
+  {
+    "id": "verb-452",
+    "word": "desenhar / projetar",
+    "infinitive": "etwas designen",
+    "present3rd": "designt",
+    "preterite": "designte",
+    "perfect": "hat designt"
+  },
+  {
+    "id": "verb-453",
+    "word": "elaborar / criar algo",
+    "infinitive": "etwas erstellen",
+    "present3rd": "erstellt",
+    "preterite": "erstellte",
+    "perfect": "hat erstellt"
+  },
+  {
+    "id": "verb-454",
+    "word": "comunicar-se com alguém",
+    "infinitive": "(mit jemandem) kommunizieren",
+    "present3rd": "kommuniziert",
+    "preterite": "kommunizierte",
+    "perfect": "hat kommuniziert"
+  },
+  {
+    "id": "verb-455",
+    "word": "precisar de muito tempo",
+    "infinitive": "lange brauchen",
+    "present3rd": "braucht",
+    "preterite": "brauchte",
+    "perfect": "hat gebraucht"
+  },
+  {
+    "id": "verb-456",
+    "word": "valer a pena",
+    "infinitive": "sich lohnen",
+    "present3rd": "lohnt",
+    "preterite": "lohnte",
+    "perfect": "hat gelohnt"
+  },
+  {
+    "id": "verb-457",
+    "word": "recarregar",
+    "infinitive": "etwas aufladen",
+    "present3rd": "lädt auf",
+    "preterite": "lud auf",
+    "perfect": "hat aufgeladen"
+  },
+  {
+    "id": "verb-458",
+    "word": "receber algo",
+    "infinitive": "etwas empfangen",
+    "present3rd": "empfängt",
+    "preterite": "empfing",
+    "perfect": "hat empfangen"
+  },
+  {
+    "id": "verb-459",
+    "word": "enviar / expedir",
+    "infinitive": "etwas verschicken",
+    "present3rd": "verschickt",
+    "preterite": "verschickte",
+    "perfect": "hat verschickt"
+  },
+  {
+    "id": "verb-460",
+    "word": "remeter",
+    "infinitive": "etwas versenden",
+    "present3rd": "versendet",
+    "preterite": "versendete",
+    "perfect": "hat versendet"
+  },
+  {
+    "id": "verb-461",
+    "word": "reiniciar",
+    "infinitive": "etwas neu starten",
+    "present3rd": "startet",
+    "preterite": "startete",
+    "perfect": "hat gestartet"
+  },
+  {
+    "id": "verb-462",
+    "word": "trocar produto ou dinheiro",
+    "infinitive": "etwas umtauschen",
+    "present3rd": "tauscht um",
+    "preterite": "tauschte um",
+    "perfect": "hat umgetauscht"
+  }
+]

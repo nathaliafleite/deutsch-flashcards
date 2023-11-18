@@ -1018,8 +1018,7 @@ p.small {
   height: 100%;
   width: 100%;
   border-radius: 4px;
-  -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
+  backface-visibility: hidden;
 }
 .flashcard--front {
   border: 1px solid rgba(0, 0, 0, 0.1);
@@ -1036,7 +1035,7 @@ p.small {
 .flashcard--back.N {
   background: #fbfd9f;
 }
-.flashcard--back.verb {
+.flashcard--back.verb, .flashcard--back.adjective {
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
 .flashcard.flip {

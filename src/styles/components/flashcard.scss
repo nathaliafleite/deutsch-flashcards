@@ -1,4 +1,4 @@
-@use "../util" as *;
+@use '../util' as *;
 
 .flashcard {
   position: relative;
@@ -6,7 +6,7 @@
   height: 400px;
   margin-top: rem(18);
   transform-style: preserve-3d;
-  transform: rotateY(var(--rotate-y, 0));
+  transform: rotateY(var(--rotate-y, -180deg));
 
   &--front,
   &--back {
@@ -48,7 +48,7 @@
   }
 
   &.flip {
-    --rotate-y: -180deg;
+    --rotate-y: 0;
   }
 
   &__word {

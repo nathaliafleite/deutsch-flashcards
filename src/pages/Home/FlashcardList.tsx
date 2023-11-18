@@ -1,23 +1,23 @@
-import { useContext, useState } from "react";
+import { useContext, useState } from 'react';
 import {
   STORAGE_MISTAKES,
   STORAGE_MISTAKES_INDEX,
   STORAGE_ANSWERED_NOUNS,
   STORAGE_ANSWERED_VERBS,
   STORAGE_ANSWERED_ADJECTIVES,
-} from "../../app/constants";
-import { FilterOptionEnum, WordTypeEnum } from "../../app/helpers/enums";
+} from '../../app/constants';
+import { FilterOptionEnum, WordTypeEnum } from '../../app/helpers/enums';
 import {
   clearLocalStorageItem,
   getLocalStorageItem,
   setLocalStorageItem,
-} from "../../app/helpers/locarlStorage";
-import { shuffleArray } from "../../app/helpers/services";
-import { WordsContext } from "../../app/store/words-context";
-import FlashcardAdjective from "../../components/FlashcardTypes/FlashcardAdjective";
-import FlashcardMistake from "../../components/FlashcardTypes/FlashcardMistake";
-import FlashcardNoun from "../../components/FlashcardTypes/FlashcardNoun";
-import FlashcardVerb from "../../components/FlashcardTypes/FlashcardVerb";
+} from '../../app/helpers/locarlStorage';
+import { shuffleArray } from '../../app/helpers/services';
+import { WordsContext } from '../../app/store/words-context';
+import FlashcardAdjective from '../../components/FlashcardTypes/FlashcardAdjective';
+import FlashcardMistake from '../../components/FlashcardTypes/FlashcardMistake';
+import FlashcardNoun from '../../components/FlashcardTypes/FlashcardNoun';
+import FlashcardVerb from '../../components/FlashcardTypes/FlashcardVerb';
 
 type Props = {
   filter: FilterOptionEnum;
@@ -312,16 +312,14 @@ const FlashcardList: React.FC<Props> = ({ filter, flip, handleFlip }) => {
       )}
 
       <div className="container">
-        {flip && (
-          <div className="flex flex-ac flex-jsb mt-7">
-            <button type="button" className="clear-button" onClick={handleWrongAnswer}>
-              I was wrong
-            </button>
-            <button type="button" className="clear-button" onClick={handleRightAnswer}>
-              I was right
-            </button>
-          </div>
-        )}
+        <div className="flex flex-ac flex-jsb mt-7">
+          <button type="button" className="clear-button" onClick={handleWrongAnswer}>
+            Mark as mistake
+          </button>
+          <button type="button" className="clear-button" onClick={handleRightAnswer}>
+            Next
+          </button>
+        </div>
       </div>
     </>
   );

@@ -1,9 +1,9 @@
-import { useContext, useEffect, useState } from "react";
-import { WordTypeEnum } from "../../app/helpers/enums";
-import { Noun, Verb } from "../../app/helpers/types";
-import { WordsContext } from "../../app/store/words-context";
-import FlashcardNoun from "./FlashcardNoun";
-import FlashcardVerb from "./FlashcardVerb";
+import { useContext, useEffect, useState } from 'react';
+import { WordTypeEnum } from '../../app/helpers/enums';
+import { Noun, Verb } from '../../app/helpers/types';
+import { WordsContext } from '../../app/store/words-context';
+import FlashcardNoun from './FlashcardNoun';
+import FlashcardVerb from './FlashcardVerb';
 
 type Props = {
   index: number;
@@ -20,18 +20,18 @@ const FlashcardMistake: React.FC<Props> = ({ index, flip, handleFlip }) => {
   useEffect(() => {
     if (wordsCtx.mistakes.length > 0) {
       const wordId = wordsCtx.mistakes[index];
-      const wordType = wordId.split("-");
+      const wordType = wordId.split('-');
 
-      if (wordType[0] === "noun") {
+      if (wordType[0] === 'noun') {
         setType(WordTypeEnum.Noun);
         setNoun(wordsCtx.nouns.find(noun => noun.id === wordsCtx.mistakes[index]));
       }
-      if (wordType[0] === "verb") {
+      if (wordType[0] === 'verb') {
         setType(WordTypeEnum.Verb);
         setVerb(wordsCtx.verbs.find(verb => verb.id === wordsCtx.mistakes[index]));
       }
     }
-  }, [index, wordsCtx.mistakes]);
+  }, [index, wordsCtx.mistakes, wordsCtx.verbs, wordsCtx.nouns]);
 
   if (wordsCtx.mistakes.length === 0) {
     return (

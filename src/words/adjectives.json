@@ -1,0 +1,862 @@
+[
+  {
+    "id": "adjective-1",
+    "word": "desmotivado",
+    "translation": "antriebslos"
+  },
+  {
+    "id": "adjective-2",
+    "word": "devagar",
+    "translation": "langsam"
+  },
+  {
+    "id": "adjective-3",
+    "word": "moderno",
+    "translation": "modern"
+  },
+  {
+    "id": "adjective-4",
+    "word": "pontual",
+    "translation": "pünktlich"
+  },
+  {
+    "id": "adjective-5",
+    "word": "não pontual",
+    "translation": "unpünktlich"
+  },
+  {
+    "id": "adjective-6",
+    "word": "fixo / firme",
+    "translation": "fest"
+  },
+  {
+    "id": "adjective-7",
+    "word": "amigável",
+    "translation": "freundlich"
+  },
+  {
+    "id": "adjective-8",
+    "word": "saboroso",
+    "translation": "lecker"
+  },
+  {
+    "id": "adjective-9",
+    "word": "quieto",
+    "translation": "still"
+  },
+  {
+    "id": "adjective-10",
+    "word": "prático",
+    "translation": "praktisch"
+  },
+  {
+    "id": "adjective-11",
+    "word": "barato / de bom valor",
+    "translation": "preiswert"
+  },
+  {
+    "id": "adjective-12",
+    "word": "terrível",
+    "translation": "schrecklich"
+  },
+  {
+    "id": "adjective-13",
+    "word": "popular",
+    "translation": "beliebt"
+  },
+  {
+    "id": "adjective-14",
+    "word": "branco",
+    "translation": "weiß"
+  },
+  {
+    "id": "adjective-15",
+    "word": "saudável",
+    "translation": "gesund"
+  },
+  {
+    "id": "adjective-16",
+    "word": "vegetariano",
+    "translation": "vegetarisch"
+  },
+  {
+    "id": "adjective-17",
+    "word": "frequentemente",
+    "translation": "häufig"
+  },
+  {
+    "id": "adjective-18",
+    "word": "em ordem",
+    "translation": "ordentlich"
+  },
+  {
+    "id": "adjective-19",
+    "word": "regularmente",
+    "translation": "regelmäßig"
+  },
+  {
+    "id": "adjective-20",
+    "word": "desarrumado",
+    "translation": "unordentlich"
+  },
+  {
+    "id": "adjective-21",
+    "word": "exaustivo",
+    "translation": "anstrengend"
+  },
+  {
+    "id": "adjective-22",
+    "word": "relaxante / que alivia stress",
+    "translation": "entspannend"
+  },
+  {
+    "id": "adjective-23",
+    "word": "interessante",
+    "translation": "interessant"
+  },
+  {
+    "id": "adjective-24",
+    "word": "monótono",
+    "translation": "langweilig"
+  },
+  {
+    "id": "adjective-25",
+    "word": "cansado",
+    "translation": "müde"
+  },
+  {
+    "id": "adjective-26",
+    "word": "fresco",
+    "translation": "frisch"
+  },
+  {
+    "id": "adjective-27",
+    "word": "barato",
+    "translation": "günstig"
+  },
+  {
+    "id": "adjective-28",
+    "word": "doce",
+    "translation": "süß"
+  },
+  {
+    "id": "adjective-29",
+    "word": "orgulhoso",
+    "translation": "stolz"
+  },
+  {
+    "id": "adjective-30",
+    "word": "estranho / curioso",
+    "translation": "merkwürdig"
+  },
+  {
+    "id": "adjective-31",
+    "word": "misterioso",
+    "translation": "geheimnisvoll"
+  },
+  {
+    "id": "adjective-32",
+    "word": "corpulento",
+    "translation": "bullig"
+  },
+  {
+    "id": "adjective-33",
+    "word": "fino / magro / afinado",
+    "translation": "dünn"
+  },
+  {
+    "id": "adjective-34",
+    "word": "necessário",
+    "translation": "notwendig"
+  },
+  {
+    "id": "adjective-35",
+    "word": "útil",
+    "translation": "nützlich"
+  },
+  {
+    "id": "adjective-36",
+    "word": "esplêndido / magnífico / maravilhoso",
+    "translation": "prächtig"
+  },
+  {
+    "id": "adjective-37",
+    "word": "insuportável",
+    "translation": "unerträglich"
+  },
+  {
+    "id": "adjective-38",
+    "word": "monótono / maçante / dull",
+    "translation": "trüben"
+  },
+  {
+    "id": "adjective-39",
+    "word": "vivaz / alegre",
+    "translation": "munter"
+  },
+  {
+    "id": "adjective-40",
+    "word": "enorme",
+    "translation": "riesig"
+  },
+  {
+    "id": "adjective-41",
+    "word": "fantástico",
+    "translation": "fantastisch"
+  },
+  {
+    "id": "adjective-42",
+    "word": "ótimo",
+    "translation": "großartig"
+  },
+  {
+    "id": "adjective-43",
+    "word": "fácil",
+    "translation": "leicht"
+  },
+  {
+    "id": "adjective-44",
+    "word": "difícil / pesado",
+    "translation": "schwer"
+  },
+  {
+    "id": "adjective-45",
+    "word": "atrasado",
+    "translation": "nachträglich"
+  },
+  {
+    "id": "adjective-46",
+    "word": "oficial",
+    "translation": "offiziell"
+  },
+  {
+    "id": "adjective-47",
+    "word": "desinteressante",
+    "translation": "uninteressant"
+  },
+  {
+    "id": "adjective-48",
+    "word": "curioso / excitado",
+    "translation": "gespannt"
+  },
+  {
+    "id": "adjective-49",
+    "word": "conhecido",
+    "translation": "bekannt"
+  },
+  {
+    "id": "adjective-50",
+    "word": "úmido / molhado",
+    "translation": "nass"
+  },
+  {
+    "id": "adjective-51",
+    "word": "chuvoso",
+    "translation": "regnerisch"
+  },
+  {
+    "id": "adjective-52",
+    "word": "mau / ruim",
+    "translation": "schlimm"
+  },
+  {
+    "id": "adjective-53",
+    "word": "emocionante / interessante",
+    "translation": "spannend"
+  },
+  {
+    "id": "adjective-54",
+    "word": "seco",
+    "translation": "trocken"
+  },
+  {
+    "id": "adjective-55",
+    "word": "relaxado",
+    "translation": "entspannt"
+  },
+  {
+    "id": "adjective-56",
+    "word": "grosso",
+    "translation": "dick"
+  },
+  {
+    "id": "adjective-57",
+    "word": "feio",
+    "translation": "hässlich"
+  },
+  {
+    "id": "adjective-58",
+    "word": "maldoso",
+    "translation": "gemein"
+  },
+  {
+    "id": "adjective-59",
+    "word": "brilhate / alegre / sereno / claro (dia)",
+    "translation": "heiter"
+  },
+  {
+    "id": "adjective-60",
+    "word": "complicado",
+    "translation": "kompliziert"
+  },
+  {
+    "id": "adjective-61",
+    "word": "fresco (frio)",
+    "translation": "kühl"
+  },
+  {
+    "id": "adjective-62",
+    "word": "nebuloso",
+    "translation": "neblig"
+  },
+  {
+    "id": "adjective-63",
+    "word": "fora de moda / antiquado",
+    "translation": "altmodisch"
+  },
+  {
+    "id": "adjective-64",
+    "word": "colorido",
+    "translation": "bunt"
+  },
+  {
+    "id": "adjective-65",
+    "word": "elegante",
+    "translation": "elegant"
+  },
+  {
+    "id": "adjective-66",
+    "word": "apertado",
+    "translation": "eng"
+  },
+  {
+    "id": "adjective-67",
+    "word": "formal",
+    "translation": "formell"
+  },
+  {
+    "id": "adjective-68",
+    "word": "florido",
+    "translation": "geblümt"
+  },
+  {
+    "id": "adjective-69",
+    "word": "com bolinhas",
+    "translation": "gepunktet"
+  },
+  {
+    "id": "adjective-70",
+    "word": "listrado",
+    "translation": "gestreift"
+  },
+  {
+    "id": "adjective-71",
+    "word": "berrante / ofuscante",
+    "translation": "grell"
+  },
+  {
+    "id": "adjective-72",
+    "word": "alto",
+    "translation": "hoch"
+  },
+  {
+    "id": "adjective-73",
+    "word": "bonito",
+    "translation": "hübsch"
+  },
+  {
+    "id": "adjective-74",
+    "word": "jovem",
+    "translation": "jung"
+  },
+  {
+    "id": "adjective-75",
+    "word": "simples",
+    "translation": "schlicht"
+  },
+  {
+    "id": "adjective-76",
+    "word": "divorciado",
+    "translation": "geschieden"
+  },
+  {
+    "id": "adjective-77",
+    "word": "solteiro",
+    "translation": "ledig"
+  },
+  {
+    "id": "adjective-78",
+    "word": "falecido",
+    "translation": "tot"
+  },
+  {
+    "id": "adjective-79",
+    "word": "casado",
+    "translation": "verheiratet"
+  },
+  {
+    "id": "adjective-80",
+    "word": "viúvo",
+    "translation": "verwitwet"
+  },
+  {
+    "id": "adjective-81",
+    "word": "velho",
+    "translation": "alt"
+  },
+  {
+    "id": "adjective-82",
+    "word": "exercendo profissão",
+    "translation": "berufstätig"
+  },
+  {
+    "id": "adjective-83",
+    "word": "conservador",
+    "translation": "konservativ"
+  },
+  {
+    "id": "adjective-84",
+    "word": "masculino",
+    "translation": "männlich"
+  },
+  {
+    "id": "adjective-85",
+    "word": "sujo",
+    "translation": "schmutzig"
+  },
+  {
+    "id": "adjective-86",
+    "word": "típico",
+    "translation": "typisch"
+  },
+  {
+    "id": "adjective-87",
+    "word": "unabhängig",
+    "translation": "typisch"
+  },
+  {
+    "id": "adjective-88",
+    "word": "impensável",
+    "translation": "undenkbar"
+  },
+  {
+    "id": "adjective-89",
+    "word": "feminino",
+    "translation": "weiblich"
+  },
+  {
+    "id": "adjective-90",
+    "word": "nascido",
+    "translation": "geboren"
+  },
+  {
+    "id": "adjective-91",
+    "word": "pronto",
+    "translation": "bereit"
+  },
+  {
+    "id": "adjective-92",
+    "word": "especial",
+    "translation": "speziell"
+  },
+  {
+    "id": "adjective-93",
+    "word": "forte",
+    "translation": "stark"
+  },
+  {
+    "id": "adjective-94",
+    "word": "justo",
+    "translation": "fair"
+  },
+  {
+    "id": "adjective-95",
+    "word": "preguiçoso",
+    "translation": "faul"
+  },
+  {
+    "id": "adjective-96",
+    "word": "em forma",
+    "translation": "fit"
+  },
+  {
+    "id": "adjective-97",
+    "word": "atlético",
+    "translation": "sportlich"
+  },
+  {
+    "id": "adjective-98",
+    "word": "sedentário",
+    "translation": "unsportlich"
+  },
+  {
+    "id": "adjective-99",
+    "word": "gorduroso",
+    "translation": "fett"
+  },
+  {
+    "id": "adjective-100",
+    "word": "picante",
+    "translation": "scharf"
+  },
+  {
+    "id": "adjective-101",
+    "word": "não saudável / insalubre",
+    "translation": "ungesund"
+  },
+  {
+    "id": "adjective-102",
+    "word": "longe",
+    "translation": "weit"
+  },
+  {
+    "id": "adjective-103",
+    "word": "diferente",
+    "translation": "anders"
+  },
+  {
+    "id": "adjective-104",
+    "word": "fácil",
+    "translation": "einfach"
+  },
+  {
+    "id": "adjective-105",
+    "word": "prestativo",
+    "translation": "hilfsbereit"
+  },
+  {
+    "id": "adjective-106",
+    "word": "descontraído",
+    "translation": "locker"
+  },
+  {
+    "id": "adjective-107",
+    "word": "seguro",
+    "translation": "sicher"
+  },
+  {
+    "id": "adjective-108",
+    "word": "espontâneo",
+    "translation": "spontan"
+  },
+  {
+    "id": "adjective-109",
+    "word": "bobo",
+    "translation": "doof"
+  },
+  {
+    "id": "adjective-110",
+    "word": "quebrado",
+    "translation": "gebrochen"
+  },
+  {
+    "id": "adjective-111",
+    "word": "baixo",
+    "translation": "leise"
+  },
+  {
+    "id": "adjective-112",
+    "word": "triste",
+    "translation": "traurig"
+  },
+  {
+    "id": "adjective-113",
+    "word": "nervoso",
+    "translation": "nervös"
+  },
+  {
+    "id": "adjective-114",
+    "word": "simpático",
+    "translation": "sympathisch"
+  },
+  {
+    "id": "adjective-115",
+    "word": "resfriado",
+    "translation": "erkältet"
+  },
+  {
+    "id": "adjective-116",
+    "word": "inchado",
+    "translation": "geschwollen"
+  },
+  {
+    "id": "adjective-117",
+    "word": "aplicado / esforçado",
+    "translation": "fleißig"
+  },
+  {
+    "id": "adjective-118",
+    "word": "duro",
+    "translation": "hart"
+  },
+  {
+    "id": "adjective-119",
+    "word": "inconsciente",
+    "translation": "bewusstlos"
+  },
+  {
+    "id": "adjective-120",
+    "word": "ferido",
+    "translation": "verletzt"
+  },
+  {
+    "id": "adjective-121",
+    "word": "estranho / desconhecindo",
+    "translation": "fremd"
+  },
+  {
+    "id": "adjective-122",
+    "word": "bem-sucedido",
+    "translation": "erfolgreich"
+  },
+  {
+    "id": "adjective-123",
+    "word": "engraçado",
+    "translation": "witzig"
+  },
+  {
+    "id": "adjective-124",
+    "word": "longo prazo",
+    "translation": "langfristig"
+  },
+  {
+    "id": "adjective-125",
+    "word": "grato",
+    "translation": "dankbar"
+  },
+  {
+    "id": "adjective-126",
+    "word": "aliviado",
+    "translation": "erleichtert"
+  },
+  {
+    "id": "adjective-127",
+    "word": "avarento / sovina",
+    "translation": "geizig"
+  },
+  {
+    "id": "adjective-128",
+    "word": "zangado",
+    "translation": "sauer"
+  },
+  {
+    "id": "adjective-129",
+    "word": "furioso",
+    "translation": "wütend"
+  },
+  {
+    "id": "adjective-130",
+    "word": "aberto",
+    "translation": "offen"
+  },
+  {
+    "id": "adjective-131",
+    "word": "tolerante",
+    "translation": "tolerant"
+  },
+  {
+    "id": "adjective-132",
+    "word": "excelente",
+    "translation": "ausgezeichnet"
+  },
+  {
+    "id": "adjective-133",
+    "word": "solitário",
+    "translation": "einsam"
+  },
+  {
+    "id": "adjective-134",
+    "word": "independente",
+    "translation": "mobil"
+  },
+  {
+    "id": "adjective-135",
+    "word": "fraco",
+    "translation": "schwach"
+  },
+  {
+    "id": "adjective-136",
+    "word": "vazio",
+    "translation": "leer"
+  },
+  {
+    "id": "adjective-137",
+    "word": "mãe/pai solteiros",
+    "translation": "alleinerziehend"
+  },
+  {
+    "id": "adjective-138",
+    "word": "coluntário",
+    "translation": "freiwillig"
+  },
+  {
+    "id": "adjective-139",
+    "word": "grávida",
+    "translation": "schwanger"
+  },
+  {
+    "id": "adjective-140",
+    "word": "difícil",
+    "translation": "schwierig"
+  },
+  {
+    "id": "adjective-141",
+    "word": "especial / excepcional",
+    "translation": "besondere"
+  },
+  {
+    "id": "adjective-142",
+    "word": "ser parente (related)",
+    "translation": "verwandt"
+  },
+  {
+    "id": "adjective-143",
+    "word": "privado",
+    "translation": "privat"
+  },
+  {
+    "id": "adjective-144",
+    "word": "agradável",
+    "translation": "angenehm"
+  },
+  {
+    "id": "adjective-145",
+    "word": "relaxante / recuperador (restful)",
+    "translation": "erholsam"
+  },
+  {
+    "id": "adjective-146",
+    "word": "incluído",
+    "translation": "inbegriffen"
+  },
+  {
+    "id": "adjective-147",
+    "word": "estressante",
+    "translation": "stressig"
+  },
+  {
+    "id": "adjective-148",
+    "word": "constrangido",
+    "translation": "umständlich"
+  },
+  {
+    "id": "adjective-149",
+    "word": "automaticamente",
+    "translation": "automatisch"
+  },
+  {
+    "id": "adjective-150",
+    "word": "de graça",
+    "translation": "kostenlos"
+  },
+  {
+    "id": "adjective-151",
+    "word": "baixo",
+    "translation": "niedrig"
+  },
+  {
+    "id": "adjective-152",
+    "word": "divertido",
+    "translation": "lustig"
+  },
+  {
+    "id": "adjective-153",
+    "word": "voluntário",
+    "translation": "ehrenamtlich"
+  },
+  {
+    "id": "adjective-154",
+    "word": "animado com / ansioso",
+    "translation": "aufgeregt"
+  },
+  {
+    "id": "adjective-155",
+    "word": "decepcionado / desapontado",
+    "translation": "enttäuscht"
+  },
+  {
+    "id": "adjective-156",
+    "word": "irritado / incomodado",
+    "translation": "genervt"
+  },
+  {
+    "id": "adjective-157",
+    "word": "surpreso",
+    "translation": "überrascht"
+  },
+  {
+    "id": "adjective-158",
+    "word": "criativo",
+    "translation": "fantasievoll"
+  },
+  {
+    "id": "adjective-159",
+    "word": "terrível",
+    "translation": "furchtbar"
+  },
+  {
+    "id": "adjective-160",
+    "word": "desempregado",
+    "translation": "arbeitslos"
+  },
+  {
+    "id": "adjective-161",
+    "word": "social",
+    "translation": "sozial"
+  },
+  {
+    "id": "adjective-162",
+    "word": "suave / delicado",
+    "translation": "zart"
+  },
+  {
+    "id": "adjective-163",
+    "word": "sem custos",
+    "translation": "unentgeltlich"
+  },
+  {
+    "id": "adjective-164",
+    "word": "estragado / defeituoso",
+    "translation": "defekt"
+  },
+  {
+    "id": "adjective-165",
+    "word": "plano / vazio (pneu)",
+    "translation": "platt"
+  },
+  {
+    "id": "adjective-166",
+    "word": "ativo",
+    "translation": "aktiv"
+  },
+  {
+    "id": "adjective-167",
+    "word": "digital",
+    "translation": "digital"
+  },
+  {
+    "id": "adjective-168",
+    "word": "acessível",
+    "translation": "erreichbar"
+  },
+  {
+    "id": "adjective-169",
+    "word": "ocupado",
+    "translation": "beschäftigt"
+  },
+  {
+    "id": "adjective-170",
+    "word": "de má visibilidade",
+    "translation": "unübersichtlich"
+  },
+  {
+    "id": "adjective-171",
+    "word": "insatisfeito(a)",
+    "translation": "unzufrieden"
+  },
+  {
+    "id": "adjective-172",
+    "word": "satisfeito(a)",
+    "translation": "zufrieden"
+  }
+]
